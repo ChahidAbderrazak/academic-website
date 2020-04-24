@@ -25,20 +25,27 @@ date_format = "Jan 2006"
   date_start = "2017-01-01"
   date_end = ""
   description = """
+  Prototyping a PLC controller of greenhouses
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Prototype a small scale  evaporative cooler controller
+  * Build  remotely monitoring and control  using local webserver
+  * Configurate wifi camera to monitor plante and create time-lapse of the growth. 
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
+  title = "Design Engineer"
+  company = "CONTINENTAL AUTOMOTIVE"
+  company_url = "https://www.continental-automotive.com/"
   location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
-
+  date_start = "2014-02-01"
+  date_end = "2014-07-31"
+  description = """
+  Prototyping a PLC controller of greenhouses
+  Responsibilities include:
+  
+  * Design crank signal generator based on differential amplifier.
+  * Fabricate the first prototype of the crank signal generator.
+  * Write a specification document of the platform. 
+  """
 +++

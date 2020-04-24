@@ -40,7 +40,7 @@ date_format = "Jan 2006"
   location = "France"
   date_start = "2014-02-01"
   date_end = "2014-07-31"
-  description = """\
+  description = """
   **Design and prototyping of Crank sensor simulator**:
 * Design crank signal generator based on differential amplifier.
 * Fabricate the first prototype of the crank signal generator.
