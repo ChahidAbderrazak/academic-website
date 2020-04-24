@@ -25,9 +25,8 @@ date_format = "Jan 2006"
   date_start = "2019-06-18"
   date_end = "2019-06-26"
   description = """
-  Prototyping a PLC controller of greenhouses
 
-  **Responsibilities include**:
+**Prototyping a PLC controller of greenhouses**:
 * Prototype a small scale  evaporative cooler controller
 * Build  remotely monitoring and control  using local webserver
 * Configurate wifi camera to monitor plante and create time-lapse of the growth. 

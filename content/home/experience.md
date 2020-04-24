@@ -21,13 +21,11 @@ date_format = "Jan 2006"
   title = "Embedded Systems Engineer"
   company = "Red Sea Farms"
   company_url = "https://www.redseafarms.com/"
-  location = "California"
+  location = "Thuwal"
   date_start = "2017-01-01"
   date_end = ""
   description = """
-  Prototyping a PLC controller of greenhouses
-  Responsibilities include:
-  
+  **Prototyping a PLC controller of greenhouses**:
   * Prototype a small scale  evaporative cooler controller
   * Build  remotely monitoring and control  using local webserver
   * Configurate wifi camera to monitor plante and create time-lapse of the growth. 
@@ -41,9 +39,7 @@ date_format = "Jan 2006"
   date_start = "2014-02-01"
   date_end = "2014-07-31"
   description = """
-  Prototyping a PLC controller of greenhouses
-  Responsibilities include:
-  
+  **Design and prototyping of Crank sensor simulator**:  
   * Design crank signal generator based on differential amplifier.
   * Fabricate the first prototype of the crank signal generator.
   * Write a specification document of the platform. 
