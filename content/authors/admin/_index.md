@@ -21,10 +21,13 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Feature Extraction 
+
 - Artificial Intelligence
+- Feature Extraction 
 - Advanced Algorithm Design
 - Embedded Systems Design
+- Smart decision making
+- Reinforcement learning
 
 education:
   courses:
@@ -39,7 +42,7 @@ education:
     year: 2013
   - course: BSc in Eltectrical Engineering
     institution: Faculté Polydisciplinaire de Khouribga, Morocco
-    year: 20010
+    year: 2010
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
