@@ -77,6 +77,6 @@ user_groups:
 - Visitors
 ---
 
-Abderrazak Chahid received the  B.Sc. in Electrical Engineering and Power Electronics from  Sultan Moulay Slimane University. He then got an M.Sc. degree in Electrical Engineering from the National School of Applied Sciences in Morocco before obtaining another M.Sc. degree of science in Embedded Systems from Lorraine University in France. 
+I received my  B.Sc. in Electrical Engineering and Power Electronics from  Sultan Moulay Slimane University. I then got an M.Sc. degree in Electrical Engineering from the National School of Applied Sciences in Morocco before obtaining another M.Sc. degree of science in Embedded Systems from Lorraine University in France. 
 
-Actually, he is a Ph.D. candidate in  Electrical engineering department within CEMSE division in King Abdullah University of Science and Technology (KAUST). His current research interest is signal processing-based features generation for biomedical signal classification and prediction and the the challenges of real implementation of artificial intelligence model. 
+Actually, I am   a Ph.D. candidate in  Electrical engineering department within CEMSE division in King Abdullah University of Science and Technology (KAUST). My current research interest is signal processing-based features generation for biomedical signal classification and prediction and the the challenges of real implementation of artificial intelligence model. 
