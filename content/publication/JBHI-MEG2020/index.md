@@ -63,5 +63,3 @@ projects: AI-for-Medicine
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-{{< figure library="true" src="Frame_Work_MEG.png" title="MEG records pre-processing, feature generation and classification models" lightbox="true" >}}
