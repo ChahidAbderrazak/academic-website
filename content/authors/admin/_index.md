@@ -18,7 +18,7 @@ organizations:
   url: "https://www.kaust.edu.sa/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include feature extraction, real time implementation of smart decision making systems.
 
 interests:
 
