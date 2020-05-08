@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 100  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -28,7 +28,7 @@ date_format = "Jan 2006"
   **Prototyping a PLC controller of greenhouses**:
   * Prototype a small scale  evaporative cooler controller
   * Build  remotely monitoring and control  using local webserver
-  * Configurate wifi camera to monitor plante and create time-lapse of the growth. 
+  * Configurate wifi camera to monitor plante and create time-lapse of the growth.
   """
 
 [[experience]]
@@ -42,6 +42,6 @@ date_format = "Jan 2006"
   **Design and prototyping of Crank sensor simulator**:  
   * Design crank signal generator based on differential amplifier.
   * Fabricate the first prototype of the crank signal generator.
-  * Write a specification document of the platform. 
+  * Write a specification document of the platform.
   """
 +++
