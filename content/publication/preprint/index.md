@@ -28,17 +28,9 @@ summary: Fractional-order SEIQRDP Model for Simulating the Dynamics of COVID-19 
 tags:
 - COVID19
 - Modeling
-featured: false
+
 
 links:
-url_pdf: http://arxiv.org/abs/2005.01820
-#url_code: '#'
-#url_dataset: '#'
-#url_poster: '#'
-#url_project: ''
-#url_slides: ''
-#url_source: '#'
-#url_video: '#'
 - icon: twitter
   icon_pack: fab
   name: Follow
@@ -54,6 +46,10 @@ url_pdf: http://arxiv.org/abs/2005.01820
   icon_pack: fab
   name: Follow
   url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
+
+
+url_pdf: http://arxiv.org/abs/2005.01820
+
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
