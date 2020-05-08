@@ -1,5 +1,5 @@
 ---
-title: Fight COVID-19
+title: Quantum Estimation
 summary: Investigate mathematical, statistical and data-driven models of the COVID-19 to understand factors promoting  virus spread.
 tags:
 - Modeling
