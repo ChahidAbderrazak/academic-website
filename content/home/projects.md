@@ -25,21 +25,24 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-  [[content.filter_button]]
-    name = "AI"
-    tag = "Artificial Intelligence"
+
 
   [[content.filter_button]]
     name = "Feature Extraction"
     tag = "Feature Extraction"
 
   [[content.filter_button]]
-    name = "Modeling"
-    tag = "Modeling"
+    name = "AI"
+    tag = "Artificial Intelligence"
+
 
   [[content.filter_button]]
     name = "Estimation"
     tag = "Estimation"
+
+    [[content.filter_button]]
+      name = "Modeling"
+      tag = "Modeling"
 
 
 [design]
