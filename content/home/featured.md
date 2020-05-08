@@ -9,7 +9,7 @@ active = true  # Activate this widget? true/false
 weight = 80  # Order that this section will appear.
 
 title = "Featured Publications"
-subtitle = " bla bla sdlfjklsflkj lsflkfjklsfjlk"
+subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
@@ -22,15 +22,14 @@ subtitle = " bla bla sdlfjklsflkj lsflkfjklsfjlk"
   order = "desc"
 
   # Show a "See all pages" link underneath the featured content?
-  link_to_archive = true
+  link_to_archive = false
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "AI"
-    category = "cat1"
-    publication_type = "journal paper"
-    author = "abderrazak chahid"
-sdkjslkdbkbfsnfbskbf
+    tag = ""
+    category = ""
+    publication_type = ""
+    author = ""
 
 [design]
   # Toggle between the various page layout types.
