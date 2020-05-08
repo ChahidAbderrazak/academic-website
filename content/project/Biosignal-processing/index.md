@@ -33,7 +33,7 @@ links:
 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: Semi-Classical Signal Analysis (SCSA) spectrum
   focal_point: Smart
 
 
@@ -43,7 +43,7 @@ image:
 
 In order to improve the biomedical signal quality, we designed different algorithms based on a quantum method called Semi-Classical Signal Analysis (SCSA). This method has the ability to decompose the input signal/image into a set of components based on the Eigen-spectrum of the Schrödinger operator.  
 
-{{< figure library="true" src="scsa_GUI.png" title=" Semi-Classical Signal Analysis (SCSA) method." lightbox="true" >}}
+#{{< figure library="true" src="scsa_GUI.png" title=" Semi-Classical Signal Analysis (SCSA) method." lightbox="true" >}}
 
 
 We targeted different biomedical applications:
