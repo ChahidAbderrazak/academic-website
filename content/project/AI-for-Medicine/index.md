@@ -2,8 +2,8 @@
 title: AI for Medicine
 summary: Nowadays, there is a recent call to build a human-independent intelligence which can assist clinicians during medical diagnosis.
 tags:
-- Deep Learning
-- Feature extraction
+- Artificial Intelligence
+- Feature Extraction
 - Diagnosis
 date: "2018-01-01"
 
