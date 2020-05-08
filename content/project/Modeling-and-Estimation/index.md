@@ -33,7 +33,7 @@ links:
 
 
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: COVID-19
   focal_point: Smart
 ---
 

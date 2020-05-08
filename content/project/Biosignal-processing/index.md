@@ -1,13 +1,12 @@
 ---
-title: Fight COVID-19 dsf
-summary: Investigate mathematical, statistical and data-driven models of the COVID-19 to understand factors promoting  virus spread.
+title: Quantum-based Estimation
+summary: Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
 tags:
-- Modeling
 - Estimation
-- Artificial Intelligence
-- COVID-19
-
-date: "2020-04-07"
+- SCSA
+- Signal Processing
+- Image Processing
+date: "2018-01-01"
 
 
 # Optional external URL for project (replaces project detail page).
