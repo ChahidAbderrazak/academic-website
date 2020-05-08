@@ -1,17 +1,17 @@
 ---
-title: Biosignals Estimation
-summary: Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
+title: Fight COVID-19 dsf
+summary: Investigate mathematical, statistical and data-driven models of the COVID-19 to understand factors promoting  virus spread.
 tags:
+- Modeling
 - Estimation
-- Signal Processing
-- Image Processing
-- SCSA
+- Artificial Intelligence
+- COVID-19
 
-date: "2017-01-01"
+date: "2020-04-07"
 
 
 # Optional external URL for project (replaces project detail page).
-#external_link: "https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing"
+#external_link: http://example.org
 
 links:
 - icon: twitter
@@ -33,13 +33,13 @@ links:
 
 
 image:
-  caption: Semi-Classical Signal Analysis (SCSA) spectrum
+  caption: Photo by Toa Heftiba on Unsplash
   focal_point: Smart
-
-
-#url_code: "https://github.com/ChahidAbderrazak/SCSA-tool-v1.0"
-
 ---
+
+
+Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
+
 
 In order to improve the biomedical signal quality, we designed different algorithms based on a quantum method called Semi-Classical Signal Analysis (SCSA). This method has the ability to decompose the input signal/image into a set of components based on the Eigen-spectrum of the Schrödinger operator.  
 
