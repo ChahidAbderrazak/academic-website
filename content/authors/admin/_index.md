@@ -23,7 +23,7 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 
 - Artificial Intelligence
-- Feature Extraction 
+- Feature Extraction
 - Advanced Algorithm Design
 - Embedded Systems Design
 - Smart decision making
@@ -32,12 +32,12 @@ interests:
 education:
   courses:
   - course: PhD in Artificial Intelligence
-    institution: King Abdullah University of Science and Technology, KSA
+    institution: King Abdullah University of Science and Technology, Thuwal, KSA
     year: 2020
-  - course: MEng in Electronics Embedded Systems
-    institution:  Lorraine University, France
+  - course: MEng in Embedded Systems
+    institution:  Lorraine University, Nancy, France
     year: 2014
-  - course: MEng in Eltectrical Engineering
+  - course: MEng in Embedded Systems
     institution:  École Nationale des Sciences Appliquées de Khouribga, Morocco
     year: 2013
   - course: BSc in Eltectrical Engineering
@@ -80,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-I received my  B.Sc. in Electrical Engineering and Power Electronics from  Sultan Moulay Slimane University. I then got an M.Sc. degree in Electrical Engineering from the National School of Applied Sciences in Morocco before obtaining another M.Sc. degree of science in Embedded Systems from Lorraine University in France. 
+I received my  B.Sc. in Electrical Engineering and Power Electronics from  Sultan Moulay Slimane University. I then got an M.Sc. degree in Electrical Engineering from the National School of Applied Sciences in Morocco before obtaining another M.Sc. degree of science in Embedded Systems from Lorraine University in France.
 
-Actually, I am   a Ph.D. candidate in  Electrical engineering department within CEMSE division in King Abdullah University of Science and Technology (KAUST). My current research interest is signal processing-based features generation for biomedical signal classification and prediction and the the challenges of real implementation of artificial intelligence model. 
+Actually, I am   a Ph.D. candidate in  Electrical engineering department within CEMSE division in King Abdullah University of Science and Technology (KAUST). My current research interest is signal processing-based features generation for biomedical signal classification and prediction and the the challenges of real implementation of artificial intelligence models.
