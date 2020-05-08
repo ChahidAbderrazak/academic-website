@@ -34,8 +34,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 - icon: twitter
   icon_pack: fab
   name: Follow
@@ -54,19 +52,13 @@ links:
 
 
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
-url_project: ''
-url_slides: ''
-url_source: '#'
-url_video: '#'
+url_dataset: 'http://zju-capg.org/myo/data/'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
   caption: 'The framework of proposed method for sEMG signals'
-  focal_point: ""
+  focal_point: Smart
   preview_only: false
 
 # Associated Projects (optional).
