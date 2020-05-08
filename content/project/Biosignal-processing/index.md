@@ -1,6 +1,6 @@
 ---
 title: Quantum Estimation
-summary: Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals estimation.
+summary: Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for  biosignal estimation.
 tags:
 - Modeling
 - Estimation
@@ -36,7 +36,6 @@ image:
   focal_point: Smart
 ---
 
-Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
 
 
 In order to improve the biomedical signal quality, we designed different algorithms based on a quantum method called Semi-Classical Signal Analysis (SCSA) [1]. This method has the ability to decompose the input signal/image into a set of components based on the Eigen-spectrum of the Schrödinger operator.  
