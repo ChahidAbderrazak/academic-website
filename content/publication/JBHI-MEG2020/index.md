@@ -46,7 +46,7 @@ url_pdf: https://ieeexplore.ieee.org/document/8986627
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: Illustration of the brain abnormal activities for differenttypes of epileptic seizure
+  caption: Illustration of the brain abnormal activities for different types of epileptic seizure
   focal_point: Smart
 
 # Associated Projects (optional).
@@ -54,7 +54,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
-projects: AI-for-Medicine
+projects:
+- AI-for-Medicine
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
