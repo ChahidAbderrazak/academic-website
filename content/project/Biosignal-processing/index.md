@@ -51,4 +51,5 @@ This work was under the supervision of professor Meriem laleg (KAUST).
 
 ### References
 [1] https://jmorozcol.github.io/
+
 [2] https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing
