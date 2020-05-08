@@ -1,5 +1,5 @@
 ---
-title: AI for Medicine
+title: AI-in-Medicine
 summary: Nowadays, there is a recent call to build a human-independent intelligence which can assist clinicians during medical diagnosis.
 tags:
 - Artificial Intelligence
