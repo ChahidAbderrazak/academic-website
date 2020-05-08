@@ -1,12 +1,14 @@
 ---
-title: Internal Project
-summary: An example of using the in-built project page.
+title: AI for Medicine
+summary: Nowadays, there is a recent call to build a human-independent intelligence which can assist clinicians during medical diagnosis.
 tags:
 - Deep Learning
-date: "2016-04-27T00:00:00Z"
+- Feature extraction
+- Diagnosis
+date: "2018-01-01"
 
 # Optional external URL for project (replaces project detail page).
-external_link: ""
+#external_link: ""
 
 image:
   caption: Photo by rawpixel on Unsplash
@@ -16,7 +18,7 @@ links:
 - icon: twitter
   icon_pack: fab
   name: Follow
-  url: https://twitter.com/georgecushen
+  url: https://twitter.com/Chahid_Abderraz
 url_code: ""
 url_pdf: ""
 url_slides: ""
