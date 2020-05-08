@@ -64,3 +64,5 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+
+Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  King Abdulaziz City for Science and Technology (KACST)  and King Saud University (KSU).
