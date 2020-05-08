@@ -1,12 +1,13 @@
 ---
-title: Quantum-based Estimation
-summary: Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
+title: Fight COVID-19
+summary: Investigate mathematical, statistical and data-driven models of the COVID-19 to understand factors promoting  virus spread.
 tags:
+- Modeling
 - Estimation
-- SCSA
-- Signal Processing
-- Image Processing
-date: "2018-01-01"
+- Artificial Intelligence
+- COVID-19
+
+date: "2020-04-07"
 
 
 # Optional external URL for project (replaces project detail page).
@@ -30,12 +31,10 @@ links:
   url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
 
 
-
 image:
-  caption: Photo by Toa Heftiba on Unsplash
+  caption: SCSA
   focal_point: Smart
 ---
-
 
 Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
 
