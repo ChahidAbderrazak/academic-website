@@ -25,6 +25,13 @@ links:
   name: Follow
   url: https://www.facebook.com/abderrazak.chahid.714
 
+
+- icon: linkedin-in
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
+
+
 url_code: ""
 url_pdf: ""
 url_slides: ""
@@ -40,10 +47,10 @@ url_video: ""
 
 In our research, we focus on investigating the use of signal processing tools for biomedical diagnosis. In order to assist neurologist and biologist during their daily activity and save the time spent in the manual processing of the records, we need focus on building efficient machine learning models based on the extraction of pertinent and discriminative features for the prediction of biomedical signals.
 
-{{< figure library="true" src="framework.png" title="Feature extraction framework" lightbox="true" >}}
+{{< figure library="true" src="framework.png" title="Feature extraction and classification framework." lightbox="true" >}}
 
 
- Our proposed AI models focusses on the following points:
+ Our proposed AI models focuses on the following points:
 
 1. Using Digital Signal Processing (DSP) features
 2. Improving the raw data quality and reducing feature vector size
