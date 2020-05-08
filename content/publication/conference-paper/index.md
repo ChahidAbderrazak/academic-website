@@ -1,5 +1,5 @@
 ---
-title: "Improves Hand Gesture Recognition"
+title: "Improves Hand Gesture Recognition!"
 authors:
 - admin
 - Rami Khushaba
@@ -34,8 +34,6 @@ tags:
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
 - icon: twitter
   icon_pack: fab
   name: Follow
@@ -56,11 +54,6 @@ links:
 #url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
 #url_code: '#'
 url_dataset: 'http://zju-capg.org/myo/data/'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: ''
-url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
