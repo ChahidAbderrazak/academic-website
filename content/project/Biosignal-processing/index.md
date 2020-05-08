@@ -1,17 +1,17 @@
 ---
-title: Quantum-Estimation
-summary: Investigate mathematical, statistical and data-driven models of the COVID-19 to understand factors promoting  virus spread.
+title: Quantum Estimation
+summary: Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals estimation.
 tags:
 - Modeling
 - Estimation
-- Artificial Intelligence
-- COVID-19
+- Signal Processing
+- Image Processing
 
-date: "2020-04-07"
+date: "2018-01-01"
 
 
 # Optional external URL for project (replaces project detail page).
-external_link: https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing
+#external_link: https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing
 
 links:
 - icon: twitter
@@ -39,7 +39,7 @@ image:
 Investigate the potentials of the  semi-classical  signal  algorithm (SCSA) for biomedical signals processing: signal/image denoising, peak estimation.
 
 
-In order to improve the biomedical signal quality, we designed different algorithms based on a quantum method called Semi-Classical Signal Analysis (SCSA). This method has the ability to decompose the input signal/image into a set of components based on the Eigen-spectrum of the Schrödinger operator.  
+In order to improve the biomedical signal quality, we designed different algorithms based on a quantum method called Semi-Classical Signal Analysis (SCSA) [1]. This method has the ability to decompose the input signal/image into a set of components based on the Eigen-spectrum of the Schrödinger operator.  
 
 
 We targeted different biomedical applications:
@@ -49,3 +49,7 @@ We targeted different biomedical applications:
 3. Complex MRS signal denoising using SCSA-based  soft thresholding.
 
 This work was under the supervision of professor Meriem laleg (KAUST).
+
+### References
+[1] https://jmorozcol.github.io/
+[2] https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing
