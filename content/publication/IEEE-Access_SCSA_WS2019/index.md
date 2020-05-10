@@ -2,10 +2,10 @@
 title: " Residual Water Suppression Using the Squared Eigenfunctions of the Schrodinger Operator"
 authors:
 - admin
-- Fahad Albalawi
-- Turky Nayef Alotaiby
-- Majed Hamad Al-Hameed
-- Saleh Alshebeili
+- Sourav Bhaduri
+- Mohamed Maoui
+- Eric Achten
+- Hacene Serrai
 - Taous-Meriem Laleg-Kirati
 
 date: "2019-12-01T00:00:00Z"
@@ -33,10 +33,9 @@ abstract: Epilepsy is a neurological disorder  classified as the second most ser
 summary: We developed a post-processing water suppression technique based on the squared eigenfunctions of the Schrodinger operator.
 
 tags:
-- Feature extraction
-- AI
-- QuPWM
-- Epilepsy
+- MRS
+- SCSA
+- Diagnosis
 
 # links:
 # - name: ""
@@ -55,7 +54,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- AI-for-Medicine
+- Biosignal-processing
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
