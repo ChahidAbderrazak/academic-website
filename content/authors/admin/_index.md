@@ -80,6 +80,6 @@ user_groups:
 - Visitors
 ---
 
-I received my  B.Sc. in Electrical Engineering and Power Electronics from  Sultan Moulay Slimane University. I then got an M.Sc. degree in Electrical Engineering from the National School of Applied Sciences in Morocco before obtaining another M.Sc. degree of science in Embedded Systems from Lorraine University in France.
+I received M.Sc. degree in Electrical Engineering from the National School of Applied Sciences in Morocco. Then I got  a second M.Sc. degree of science in Embedded Systems from Lorraine University in France.
 
-Actually, I am   a Ph.D. candidate in  Electrical engineering department within CEMSE division in King Abdullah University of Science and Technology (KAUST). My current research interest is signal processing-based features generation for biomedical signal classification and prediction and the the challenges of real implementation of artificial intelligence models.
+I am  currently a Ph.D. candidate in  Electrical engineering department within CEMSE division in King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). My current research interest is  the features generation and the real implementation of artificial intelligence models.
