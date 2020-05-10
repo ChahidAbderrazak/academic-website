@@ -45,7 +45,7 @@ url_pdf: https://ieeexplore.ieee.org/document/8986627
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: (a) Single voxel in vivo phase-corrected absorption spectrum with minimal water residue after CHESS, (c) SCSA result on the spectrum. Red vertical boxes in all the sub figures indicate the water region.
+  caption: water suppression using SCSA
   focal_point: Smart
 
 # Associated Projects (optional).
