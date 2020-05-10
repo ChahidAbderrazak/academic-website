@@ -64,5 +64,3 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-
-Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with Gent university. The authors would like to thank Dr. Sabine Van Huffel from the University of Leuven for the use of the HLSVD software, Ms. Patricia Clement and Ghent Institute for Functional and Metabolic Imaging (GIfMI) team for their help in the in vivo data acquisition.
