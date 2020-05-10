@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Red Sea Farms"
   company_url = "https://www.redseafarms.com/"
   location = "Thuwal"
-  date_start = "2017-01-01"
-  date_end = ""
+  date_start = "2018-06-01"
+  date_end = "2018-12-26"
   description = """
   **Prototyping a PLC controller of greenhouses**:
   * Prototype a small scale  evaporative cooler controller
