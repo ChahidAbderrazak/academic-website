@@ -42,7 +42,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8720157
+url_pdf: https://ieeexplore.ieee.org/document/8986627
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
