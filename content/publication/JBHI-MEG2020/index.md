@@ -38,9 +38,25 @@ tags:
 - QuPWM
 - Epilepsy
 
-# links:
-# - name: ""
-#   url: ""
+featured: true
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/Chahid_Abderraz
+
+- icon: facebook
+  icon_pack: fab
+  name: Follow
+  url: https://www.facebook.com/abderrazak.chahid.714
+
+
+- icon: linkedin-in
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
+
 url_pdf: https://ieeexplore.ieee.org/document/8986627
 
 # Featured image

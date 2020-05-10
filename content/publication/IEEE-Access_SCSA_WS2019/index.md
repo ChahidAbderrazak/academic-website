@@ -37,9 +37,28 @@ tags:
 - SCSA
 - Diagnosis
 
-# links:
-# - name: ""
-#   url: ""
+
+featured: true
+
+links:
+- icon: twitter
+  icon_pack: fab
+  name: Follow
+  url: https://twitter.com/Chahid_Abderraz
+
+- icon: facebook
+  icon_pack: fab
+  name: Follow
+  url: https://www.facebook.com/abderrazak.chahid.714
+
+
+- icon: linkedin-in
+  icon_pack: fab
+  name: Follow
+  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
+
+
+
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8720157
 
 # Featured image
@@ -54,7 +73,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Biosignal-processing
+- SCSA-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
