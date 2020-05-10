@@ -1,8 +1,8 @@
 ---
 title: "Fractional Modeling of COVID-19 Epidemic"
 authors:
-- admin
 - Mohamed A. Bahloul
+- admin
 - Taous-Meriem Laleg-Kirati
 date: "2020-04-29T00:00:00Z"
 doi: ""
