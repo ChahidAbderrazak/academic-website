@@ -82,4 +82,4 @@ user_groups:
 
 I received a M.Sc. degree in Electrical Engineering from the [National School of Applied Sciences](http://ensak.usms.ac.ma/ensak/) in Morocco. Then I got  a second M.Sc. degree  in Embedded Systems from [Lorraine University](https://welcome.univ-lorraine.fr/) in France.
 
-I am  currently a Ph.D. candidate in  Electrical engineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). My current research interest is  signal/image processing,  feature generation and the  real-time implementation of AI-based systems.
+I am  currently a Ph.D. candidate in  Electrical engineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). My current research interest is  signal/image processing,  feature generation and  real-time implementation of AI-based systems.

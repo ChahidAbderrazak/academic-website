@@ -1,5 +1,5 @@
 ---
-title: "Improves Hand Gesture Recognition"
+title: "Improving Hand Gesture Recognition"
 authors:
 - admin
 - Rami Khushaba
