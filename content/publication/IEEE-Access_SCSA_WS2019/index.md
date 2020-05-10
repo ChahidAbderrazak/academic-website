@@ -21,8 +21,8 @@ publishDate: "2020-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*IEEE Journal of Biomedical and Health Informatics*"
-publication_short: "IEEE-JBHI"
+publication: "*IEEE Access Journal*"
+publication_short: "IEEE-Acess"
 
 abstract: Epilepsy is a neurological disorder  classified as the second most serious neurological disease known to humanity, after stroke. Localization of epileptogenic zone is an important step for  epileptic patient treatment, which starts with epileptic spike detection. The common practice for spike detection of brain signals  is via visual scanning of the recordings, which is a subjective and a very time-consuming task. Motivated by that, this paper focuses on using machine learning for  automatic detection of epileptic spikes in magnetoencephalography (MEG) signals. First, we used the Position Weight Matrix (PWM) method  combined with a uniform quantizer  to generate useful features. Second, the extracted features are classified using  a Support Vector Machine (SVM) for the purpose of epileptic spikes detection. The proposed technique shows great potential in improving the spike detection accuracy and reducing the feature vector size. Specifically, the proposed technique achieved average accuracy  up to  98\% in  using  5-folds cross-validation applied to a balanced dataset of 3104 samples. These  samples are  extracted from 16 subjects where eight are  healthy and eight are epileptic subjects using a sliding frame of size of 100 samples-points with a step-size of 2 sample-points.
 
@@ -40,7 +40,7 @@ tags:
 # links:
 # - name: ""
 #   url: ""
-url_pdf: https://ieeexplore.ieee.org/document/8986627
+url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8720157
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -64,4 +64,4 @@ projects:
 #slides: example
 ---
 
-Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  King Abdulaziz City for Science and Technology (KACST)  and King Saud University (KSU).
+Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  Ghent university. The authors would like to thank Dr. Sabine Van Huffel from the University of Leuven for the use of the HLSVD software, Ms. Patricia Clement and Ghent Institute for Functional and Metabolic Imaging (GIfMI) team for their help in the in vivo data acquisition.
