@@ -24,7 +24,7 @@ publication_types: ["2"]
 publication: "*IEEE Access Journal*"
 publication_short: "IEEE-Access"
 
-abstract: Water suppression, in proton magnetic resonance spectroscopy (MRS) using post-processing techniques, is very challenging due to the large amplitude of the water line, which shadows the metabolic peaks with small amplitudes and complicates their quantification. In addition, the peak-shaped structure of these spectra and the relatively small number of data points representing them makes the suppression process more cumbersome. In this paper, a post-processing water suppression technique based on the Schrodinger operator is proposed. 
+abstract: Water suppression, in proton magnetic resonance spectroscopy (MRS) using post-processing techniques, is very challenging due to the large amplitude of the water line, which shadows the metabolic peaks with small amplitudes and complicates their quantification. In addition, the peak-shaped structure of these spectra and the relatively small number of data points representing them makes the suppression process more cumbersome. In this paper, a post-processing water suppression technique based on the Schrodinger operator is proposed.
 
 
 
