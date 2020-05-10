@@ -45,7 +45,7 @@ url_pdf: https://ieeexplore.ieee.org/document/8986627
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: water suppression using SCSA
+  caption: Illustration of the brain abnormal activities for different types of epileptic seizure
   focal_point: Smart
 
 # Associated Projects (optional).
@@ -64,4 +64,4 @@ projects:
 #slides: example
 ---
 
-Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  Ghent university. The authors would like to thank Dr. Sabine Van Huffel from the University of Leuven for the use of the HLSVD software, Ms. Patricia Clement and Ghent Institute for Functional and Metabolic Imaging (GIfMI) team for their help in the in vivo data acquisition.
+Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  King Abdulaziz City for Science and Technology (KACST)  and King Saud University (KSU).
