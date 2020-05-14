@@ -58,6 +58,7 @@ links:
   url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
 
 url_pdf: https://ieeexplore.ieee.org/document/8986627
+url_source: https://github.com/EMANG-KAUST/QuPWM
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
