@@ -49,7 +49,7 @@ We targeted different biomedical applications:
 
 This work was under the supervision of professor Meriem laleg (KAUST).
 
-### References
-[1] https://jmorozcol.github.io/
+### Useful references
+[1] https://emang-kaust.github.io/index.html
 
 [2] https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing
