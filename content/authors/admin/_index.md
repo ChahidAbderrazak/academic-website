@@ -33,14 +33,14 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: King Abdullah University of Science and Technology, Thuwal, KSA
-    year: 2020
-  - course: MEng in Embedded Systems
+    year: Expected 2020
+  - course: M.Sc in Embedded Systems
     institution:  Lorraine University, Nancy, France
     year: 2014
-  - course: MEng in Embedded Systems
+  - course: M.Eng in Embedded Systems
     institution:  École Nationale des Sciences Appliquées de Khouribga, Morocco
     year: 2013
-  - course: BSc in Eltectrical Engineering
+  - course: B.Sc in Eltectrical Engineering
     institution: Faculté Polydisciplinaire de Khouribga, Morocco
     year: 2010
 
