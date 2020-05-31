@@ -52,6 +52,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: '#contact'  # For a direct email link, use "mailto:abderrazak.chahid@gmail.com".
+- icon: likedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/abderrazak-chahid-09b65948
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Chahid_Abderraz
