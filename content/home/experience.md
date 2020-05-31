@@ -17,6 +17,25 @@ date_format = "Jan 2006"
 #   Required fields are `title`, `company`, and `date_start`.
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
+
+
+[[experience]]
+  title = "Embedded Systems Engineer"
+  company = "Aquash"
+  company_url = "https://www.linkedin.com/in/aquash-company-8282191ab/"
+  location = "Thuwal"
+  date_start = "2020-04-01"
+  date_end = ""
+  description = """
+  **Prototyping a smart controller of fish aquarium**:
+  * Design/manufacturing  fish aquarium controller
+  * Implement real-time  optimal feeding strategy
+  * Smart fish health diagnosis using AI technology
+  * Fish health monitoring system using wireless network
+  """
+
+
+
 [[experience]]
   title = "Embedded Systems Engineer"
   company = "Red Sea Farms"
