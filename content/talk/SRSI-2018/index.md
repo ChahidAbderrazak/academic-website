@@ -1,9 +1,9 @@
 ---
-title: Example Talk sd
-event: Academic Theme Conference
-event_url: https://example.org
+title: SRSI2019:  Matlab programming tutorial  
+event:  Saudi Research Science Institute (SRSI)
+event_url: https://www.kaust.edu.sa/en/news/young-scholars-selected-for-srsi-2018
 
-location: Source Themes HQ
+location:  
 address:
   street: 450 Serra Mall
   city: Stanford
