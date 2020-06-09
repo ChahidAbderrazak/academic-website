@@ -1,5 +1,5 @@
 ---
-title: Example Talk
+title: Example Talk sd
 event: Academic Theme Conference
 event_url: https://example.org
 
