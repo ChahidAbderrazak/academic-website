@@ -40,7 +40,7 @@ education:
   - course: M.Eng in Embedded Systems
     institution:  École Nationale des Sciences Appliquées de Khouribga, Morocco
     year: 2013
-  - course: B.Sc in Eltectrical Engineering
+  - course: B.Sc in Electrical Engineering
     institution: Faculté Polydisciplinaire de Khouribga, Morocco
     year: 2010
 
