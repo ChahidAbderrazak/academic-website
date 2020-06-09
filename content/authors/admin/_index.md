@@ -18,14 +18,14 @@ organizations:
   url: "https://www.kaust.edu.sa/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include feature extraction, real time implementation of smart decision making systems.
+bio: My research interests include feature extraction, real-time implementation of smart decision making systems.
 
 interests:
 
-- Artificial Intelligence
-- Feature Extraction
-- Advanced Algorithm Design
-- Embedded Systems Design
+- Artificial intelligence
+- Feature extraction
+- Advanced algorithm design
+- Embedded systems design
 - Smart decision making
 - Reinforcement learning
 
