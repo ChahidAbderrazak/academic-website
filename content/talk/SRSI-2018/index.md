@@ -1,5 +1,5 @@
 ---
-title: SRSI2019  Matlab programming tutorial  
+title: SRSI2018  Matlab programming tutorial  
 event:  Saudi Research Science Institute
 event_url: "https://www.kaust.edu.sa/en/news/young-scholars-selected-for-srsi-2018"
 
@@ -17,15 +17,15 @@ abstract: " The aim of this course is to introduce the student to the Matlab and
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2018-07-27T13:00:00Z"
+date_end: "2018-07-27T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2018-07-27T00:00:00Z"
 
-authors: []
-tags: []
+authors: [admin]
+tags: [course]
 
 # Is this a featured talk? (true/false)
 featured: false
