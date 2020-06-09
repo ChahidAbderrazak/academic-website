@@ -1,33 +1,37 @@
 ---
-title: My EMBC2019 talk about epileptic spikes detection  
-event: IEEE Engineering in Medicine and Biology Society
-event_url: https://embc.embs.org/2019/
+title: SRSI2019:  Matlab programming tutorial  
+event: Saudi Research Science Institute (SRSI)
+event_url: https://www.kaust.edu.sa/en/news/young-scholars-selected-for-srsi-2018
 
-location: Source Themes HQ
+location: ""
 address:
-  street: Messedamm 26
-  city: Stanford
-  region: Berlin
-  postcode: '14055'
-  country: Germany
+  street: KAUST
+  city: Thuwal
+  region: Mekkah
+  postcode: '23955-6900'
+  country: KSA
 
-summary: In this talk, I presented how can we use quantum feature for epileptic spikes detection.
-abstract: " Epilepsy is a neurological disorder classified as the second most serious neurological disease known to humanity, after stroke. Magnetoencephalography (MEG) is performed to localize the epileptogenic zone in the brain. However, the detection of epileptic spikes requires the visual assessment of long MEG recordings. This task is time-consuming and might lead to wrong decisions. Therefore, the introduction of effective machine learning algorithms for the quick and accurate epileptic spikes detection from MEG recordings would improve the clinical diagnosis of the disease. The efficiency of machine learning based algorithms requires a good characterization of the signal by extracting pertinent features. In this paper, we propose new sets of features for MEG signals. These features are based on a Semi-Classical Signal Analysis (SCSA) method, which allows a good characterization of peak shaped signals. Moreover, this method improves the spike detection accuracy and reduces the feature vector size. We could achieve up to 93.68% and 95.08% in average sensitivity and specificity, respectively. We used the 5-folds cross-validation applied to a balanced dataset of 3104 frames, extracted from eight healthy and eight epileptic subjects with a frame size of 100 samples with a step size of 2 samples, using Random Forest (RF) classifier.
+summary: In this talk, I presented basic and advanced tools for Matlab programming.
+abstract: " The aim of this course is to introduce the student to the Matlab and how it can be used to model and solve real problem. The main axis of this course are:
+- Introduction to linear algebra
+- Problems formulation to implementation
+- Exercises: write Matlab script to solve  some problems such as linear problem, transforms...
  "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2019-07-23T13:00:00Z"
-date_end: "2019-07-27T15:00:00Z"
+date: "2018-07-27T13:00:00Z"
+date_end: "2018-07-27T18:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2019-08-01T00:00:00Z"
+publishDate: "2019-06-27T00:00:00Z"
 
 authors: [Abderrazak Chahid]
 tags:
-- AI
-- SCSA
+- signal processing
+- implementation
+- course
 
 # Is this a featured talk? (true/false)
 featured: true
@@ -57,9 +61,9 @@ links:
 
 
 
-url_code: ""
+url_code: "https://github.com/ChahidAbderrazak/Matlab_Tutorial_SRSI_2018"
 url_pdf: ""
-url_slides: "slides/Matlab_Tutorial.pptx"
+url_slides: ""
 url_video: ""
 
 # Markdown Slides (optional).
