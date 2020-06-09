@@ -1,7 +1,7 @@
 ---
-title: SRSI2019:  Matlab programming tutorial  
-event:  Saudi Research Science Institute (SRSI)
-event_url: https://www.kaust.edu.sa/en/news/young-scholars-selected-for-srsi-2018
+title: SRSI2019  Matlab programming tutorial  
+event:  Saudi Research Science Institute
+event_url: "https://www.kaust.edu.sa/en/news/young-scholars-selected-for-srsi-2018"
 
 location:  
 address:
