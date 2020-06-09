@@ -63,7 +63,7 @@ links:
   name: Follow
   url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
 
-url_pdf: https://ieeexplore.ieee.org/document/8986627
+url_pdf: https://doi.org/10.1016/j.ymeth.2019.04.001
 url_source: https://github.com/EMANG-KAUST/QuPWM
 url_dataset: 'http://dx.doi.org/10.17632/n9snfr7m59.1'
 
