@@ -3,11 +3,11 @@ title: EMBC2019:  Epileptic spikes detection
 event: IEEE Engineering in Medicine and Biology Society
 event_url: https://embc.embs.org/2019/
 
-location: ""
+location:  ""
 address:
   street: Messedamm 26
   city: Berlin
-  region: ""
+  region: Berlin
   postcode: '14055'
   country: Germany
 
