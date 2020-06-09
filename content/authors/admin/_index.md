@@ -86,6 +86,6 @@ user_groups:
 
 I received a M.Sc. degree in Electrical Engineering from the [National School of Applied Sciences](http://ensak.usms.ac.ma/ensak/) in Morocco. Then I got  a second M.Sc. degree  in Embedded Systems from [Lorraine University](https://welcome.univ-lorraine.fr/) in France.
 
-I am  currently a Ph.D. candidate in  Electrical engineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). I am  passionate about combining the AI with embedded systems to build smart and low cost devices such as: [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic  cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
+I am  currently a Ph.D. candidate in  Electrical engineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). I am  passionate about combining artificial intelligence with embedded systems to build smart and low cost devices such as: [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic  cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
 
 If you have similar interests, please feel free to contact me for question, discussion or potential collaboration :).
