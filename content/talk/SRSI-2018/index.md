@@ -1,33 +1,36 @@
 ---
-title: Example Talk
-event: Academic Theme Conference
-event_url: https://example.org
+title: My EMBC2019 talk about epileptic spikes detection  
+event: IEEE Engineering in Medicine and Biology Society
+event_url: https://embc.embs.org/2019/
 
 location: Source Themes HQ
 address:
-  street: 450 Serra Mall
+  street: Messedamm 26
   city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  region: Berlin
+  postcode: '14055'
+  country: Germany
 
-summary: An example talk using Academic's Markdown slides feature.
-abstract: " the works preseted "
+summary: In this talk, I presented how can we use quantum feature for epileptic spikes detection.
+abstract: " Epilepsy is a neurological disorder classified as the second most serious neurological disease known to humanity, after stroke. Magnetoencephalography (MEG) is performed to localize the epileptogenic zone in the brain. However, the detection of epileptic spikes requires the visual assessment of long MEG recordings. This task is time-consuming and might lead to wrong decisions. Therefore, the introduction of effective machine learning algorithms for the quick and accurate epileptic spikes detection from MEG recordings would improve the clinical diagnosis of the disease. The efficiency of machine learning based algorithms requires a good characterization of the signal by extracting pertinent features. In this paper, we propose new sets of features for MEG signals. These features are based on a Semi-Classical Signal Analysis (SCSA) method, which allows a good characterization of peak shaped signals. Moreover, this method improves the spike detection accuracy and reduces the feature vector size. We could achieve up to 93.68% and 95.08% in average sensitivity and specificity, respectively. We used the 5-folds cross-validation applied to a balanced dataset of 3104 frames, extracted from eight healthy and eight epileptic subjects with a frame size of 100 samples with a step size of 2 samples, using Random Forest (RF) classifier.
+ "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: "2030-06-01T13:00:00Z"
-date_end: "2030-06-01T15:00:00Z"
+date: "2019-07-23T13:00:00Z"
+date_end: "2019-07-27T15:00:00Z"
 all_day: false
 
 # Schedule page publish date (NOT talk date).
-publishDate: "2017-01-01T00:00:00Z"
+publishDate: "2019-08-01T00:00:00Z"
 
-authors: []
-tags: []
+authors: [Abderrazak Chahid]
+tags:
+- AI
+- SCSA
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
@@ -64,7 +67,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: slide-SRSI-2018
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -79,11 +82,4 @@ projects:
 math: true
 ---
 
-
-Slides can be added in a few ways:
-
-- **Create** slides using Academic's [*Slides*](https://sourcethemes.com/academic/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
-
-Further talk details can easily be added to this page using *Markdown* and $\rm \LaTeX$ math code.
+...
