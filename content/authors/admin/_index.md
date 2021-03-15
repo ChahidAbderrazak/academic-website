@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD candidiate
+role: PhD in Artificial Intelligence 
 
 # Organizations/Affiliations
 organizations:
@@ -33,7 +33,7 @@ education:
   courses:
   - course: PhD in Artificial Intelligence
     institution: King Abdullah University of Science and Technology, Thuwal, KSA
-    year: Expected 2020
+    year:  2020
   - course: M.Sc in Embedded Systems
     institution:  Lorraine University, Nancy, France
     year: 2014
@@ -83,9 +83,8 @@ user_groups:
 - Researchers
 - Visitors
 ---
+I am a  Ph.D. graduate in  Electrical and Computer Eengineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). I received a M.Sc. degree in Electrical Engineering from the [National School of Applied Sciences](http://ensak.usms.ac.ma/ensak/) in Morocco. Then I got  a second M.Sc. degree  in Embedded Systems from [Lorraine University](https://welcome.univ-lorraine.fr/) in France.
 
-I received a M.Sc. degree in Electrical Engineering from the [National School of Applied Sciences](http://ensak.usms.ac.ma/ensak/) in Morocco. Then I got  a second M.Sc. degree  in Embedded Systems from [Lorraine University](https://welcome.univ-lorraine.fr/) in France.
-
-I am  currently a Ph.D. candidate in  Electrical engineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). I am  passionate about combining artificial intelligence with embedded systems to build smart and low cost devices such as: [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic  cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
+I am  passionate about combining artificial intelligence with embedded systems to build smart and low cost devices such as: [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic  cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
 
 If you have similar interests, please feel free to contact me for question, discussion or potential collaboration :).
