@@ -86,4 +86,4 @@ I got my Ph.D. in  Electrical and Computer Engineering from  King Abdullah Unive
 
 I am passionate about combining artificial intelligence with embedded systems to build smart and low-cost devices such as [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
 
-I am interested in opportunities to develop and deploy smart ML-powered applications. If you have similar interests, please feel free to contact me for questions, discussion, or potential collaboration :).
+If you have similar interests, please feel free to contact me for questions, discussion, or potential collaboration :).
