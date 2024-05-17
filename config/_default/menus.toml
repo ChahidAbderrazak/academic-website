@@ -36,10 +36,10 @@
 
 
 # Link to a PDF of your resume/CV from the menu.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
+# To enable, copy your resume/CV to `static/files/Resume_Abderrazak.pdf` and uncomment the lines below.
  [[main]]
-    name = "My CV"
-    url = "files/cv.pdf"
+    name = "My Resume"
+    url = "files/Resume_Abderrazak.pdf"
     weight = 60
 
 [[main]]
