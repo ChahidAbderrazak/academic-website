@@ -54,7 +54,7 @@ social:
   link: '#contact'  # For a direct email link, use "mailto:abderrazak.chahid@gmail.com".
 - icon: linkedin-in
   icon_pack: fab
-  link: https://www.linkedin.com/in/abderrazak-chahid-09b65948
+  link: https://www.linkedin.com/in/chahidabderrazak
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/Chahid_Abderraz
@@ -64,9 +64,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/ChahidAbderrazak
-- icon: instagram
-  icon_pack: fab
-  link: https://www.instagram.com/abderrazak_chahid
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -83,8 +80,10 @@ user_groups:
 - Researchers
 - Visitors
 ---
-I am a  Ph.D. graduate in  Electrical and Computer Eengineering  at  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). I received a M.Sc. degree in Electrical Engineering from the [National School of Applied Sciences](http://ensak.usms.ac.ma/ensak/) in Morocco. Then I got  a second M.Sc. degree  in Embedded Systems from [Lorraine University](https://welcome.univ-lorraine.fr/) in France.
 
-I am  passionate about combining artificial intelligence with embedded systems to build smart and low cost devices such as: [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic  cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
 
-If you have similar interests, please feel free to contact me for question, discussion or potential collaboration :).
+I got my Ph.D. in  Electrical and Computer Engineering from  King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid). I have 2.5 years of postdoc research on building and deploying machine learning models (ML) for smart vision systems for defect detection.
+
+I am passionate about combining artificial intelligence with embedded systems to build smart and low-cost devices such as [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
+
+I am interested in opportunities to develop and deploy smart ML-powered applications. If you have similar interests, please feel free to contact me for questions, discussion, or potential collaboration :).
