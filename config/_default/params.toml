@@ -90,7 +90,7 @@ address = {street = "", city = "Montreal", region = "Qubec", postcode = "H2K 1J9
 
 # Geographic coordinates
 # To get your coordinates, right-click on Google Maps and choose "What's here?". The coords will show up at the bottom.
-coordinates = {latitude = "45.510122755077695", longitude = "-73.59514361980698"}
+coordinates = {latitude = "45.510122755", longitude = "-73.5951436"}
 # Directions for visitors to locate you.
 directions = ""
 
