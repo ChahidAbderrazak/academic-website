@@ -13,7 +13,7 @@ date: "2022-12-01"
 #external_link: ""
 
 image:
-  caption: Illustration of road inspections using surface and drone robots.
+  caption: Illustration of the Dental Semantic Network (DSN).
   focal_point: Smart
 
 links:
