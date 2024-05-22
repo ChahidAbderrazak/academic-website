@@ -13,11 +13,6 @@ date: "2020-04-07"
 #external_link: http://example.org
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/Chahid_Abderraz
-
   - icon: linkedin-in
     icon_pack: fab
     name: Follow

@@ -13,11 +13,6 @@ date: "2018-01-01"
 #external_link: https://cemse.kaust.edu.sa/emang/quantum-based-signal-processing
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/Chahid_Abderraz
-
   - icon: linkedin-in
     icon_pack: fab
     name: Follow

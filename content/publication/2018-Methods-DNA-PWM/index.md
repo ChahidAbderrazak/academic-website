@@ -44,11 +44,6 @@ tags:
 featured: true
 
 links:
-  - icon: twitter
-    icon_pack: fab
-    name: Follow
-    url: https://twitter.com/Chahid_Abderraz
-
   - icon: linkedin-in
     icon_pack: fab
     name: Follow
