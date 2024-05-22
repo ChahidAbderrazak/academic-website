@@ -25,9 +25,11 @@ interests:
 - Artificial intelligence
 - Feature extraction
 - Advanced algorithm design
+- Computer Vision
 - Embedded systems design
 - Smart decision making
 - Reinforcement learning
+- Automation
 
 education:
   courses:
