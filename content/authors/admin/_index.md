@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: PhD in Artificial Intelligence 
+role: Data Scientist 
 
 # Organizations/Affiliations
 organizations:
-- name: King Abdullah University of Science and Technology
-  url: "https://www.kaust.edu.sa/"
+- name: Ontario Tech University
+  url: "https://ontariotechu.ca/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include feature extraction, real-time implementation of smart decision making systems.
