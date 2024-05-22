@@ -1,6 +1,6 @@
 ---
 title: Automated Smart Industrial Inspection
-summary: The CT-Based Integrity Monitoring System (CTIMS), is an automated industrial inspection software for CT images and 3D volumes.
+summary: Automated smart industrial inspection software for X-ray CT images and 3D volumes.
 
 tags:
   - Artificial Intelligence

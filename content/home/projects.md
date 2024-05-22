@@ -35,6 +35,9 @@ subtitle = ""
     name = "AI"
     tag = "Artificial Intelligence"
 
+ [[content.filter_button]]
+    name = "Computer Vision"
+    tag = "Computer Vision"
 
   [[content.filter_button]]
     name = "Estimation"
