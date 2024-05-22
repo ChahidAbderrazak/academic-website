@@ -46,6 +46,6 @@ Three main components:
 
 {{< figure library="true" src="hais-webapp.jpeg" title="The web user-interface of the proposed HAIS software." lightbox="true" >}}
 
-This project was led by Prof. Hossam Gabbar and me as the postdoctoral researcher of the team (composed of two master students [ [Md Jamiul Alam Khan](https://www.linkedin.com/in/jamiul/) ,[Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/)] and a lab engineer) in collaboration with [Ministry of Transportation of Ontario ](https://www.ontario.ca/page/ministry-transportation).
+This project was led by Prof. [Hossam A. Gabbar](https://hossamgaber.com/) and me as the postdoctoral researcher of the team (composed of two master's students [ [Md Jamiul Alam Khan](https://www.linkedin.com/in/jamiul/) ,[Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/)] and a lab engineer) in collaboration with [Ministry of Transportation of Ontario ](https://www.ontario.ca/page/ministry-transportation).
 
 For a demo or more details, please contact professor Hossam A. Gabbar (Hossam.Gaber@ontariotechu.ca )

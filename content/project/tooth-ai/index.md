@@ -1,5 +1,5 @@
 ---
-title: Tooth-AI project 
+title: Tooth-AI project
 summary: Smart dental diagnosis and treatment support.
 
 tags:
@@ -34,13 +34,12 @@ url_video: "https://www.youtube.com/watch?v=YxU-djNiBmM&list=PLVCBcL0peR4J2RBAiC
 #slides: example
 ---
 
-In our research, we propose a smart diagnostic module  (ToothAI) that can be integrated into existing dental software. This module is based on artificial intelligence (AI) that allows the diagnosis of X-ray images/volumes and helps in the early detection and diagnosis of oral health diseases. 
+In our research, we propose a smart diagnostic module (ToothAI) that can be integrated into existing dental software. This module is based on artificial intelligence (AI) that allows the diagnosis of X-ray images/volumes and helps in the early detection and diagnosis of oral health diseases.
 
-{{< figure library="true" src="hais-framework.jpeg" title="The HAIS inspection framework." lightbox="true" >}}
+{{< figure library="true" src="tooth-ai-framework.jpeg" title="The ToothAI module framework." lightbox="true" >}}
 
 The solution presents a smart and automated assistive platform to aid dental practitioners in identifying underlying tooth diseases and accessing doctors in treatment suggestions.
 
-
-This project was led by Prof. Hossam Gabbar and me as the postdoctoral researcher of the team (composed of a master student : [Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/) ).
+This project was led by Prof. [Hossam A. Gabbar](https://hossamgaber.com/) and me as the postdoctoral researcher of the team (composed of a master's student : [Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/) ).
 
 For a demo or more details, please contact professor Hossam A. Gabbar (Hossam.Gaber@ontariotechu.ca )

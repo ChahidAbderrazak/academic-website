@@ -45,6 +45,6 @@ The designed software has three main modules:
 
 {{< figure library="true" src="ctims-gui.png" title="The user-interface of the proposed CTIMS software." lightbox="true" >}}
 
-This project was led by Prof. Hossam Gabbar and me as the postdoctoral researcher of the team (composed of two master students [ [Md Jamiul Alam Khan](https://www.linkedin.com/in/jamiul/) ,[Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/)] and a lab engineer) in collaboration with [New Vision Systems Canada Inc.](https://www.nvscanada.ca/) (NVS) and [Mitacs](https://www.mitacs.ca/).
+This project was led by Prof. [Hossam A. Gabbar](https://hossamgaber.com/) and me as the postdoctoral researcher of the team (composed of two master's students [ [Md Jamiul Alam Khan](https://www.linkedin.com/in/jamiul/) ,[Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/)] and a lab engineer) in collaboration with [New Vision Systems Canada Inc.](https://www.nvscanada.ca/) (NVS) and [Mitacs](https://www.mitacs.ca/).
 
 For a CTIMS demo, please feel free to send an email to Amr Barakat(amrb@nvscanada.ca)
