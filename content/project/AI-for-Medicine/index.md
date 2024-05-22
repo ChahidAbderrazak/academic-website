@@ -2,9 +2,9 @@
 title: AI in Medicine
 summary: Nowadays, there is a recent call to build a human-independent intelligence which can assist clinicians during medical diagnosis.
 tags:
-- Artificial Intelligence
-- Feature Extraction
-- Diagnosis
+  - Artificial Intelligence
+  - Feature Extraction
+  - Diagnosis
 date: "2018-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,28 +15,20 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Chahid_Abderraz
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/Chahid_Abderraz
 
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/abderrazak.chahid.714
-
-
-- icon: linkedin-in
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
-
+  - icon: linkedin-in
+    icon_pack: fab
+    name: Follow
+    url: https://www.linkedin.com/in/chahidabderrazak/
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -49,8 +41,7 @@ In our research, we focus on investigating the use of signal processing tools fo
 
 {{< figure library="true" src="framework.png" title="Feature extraction and classification framework." lightbox="true" >}}
 
-
- Our proposed AI models focuses on the following points:
+Our proposed AI models focuses on the following points:
 
 1. Using Digital Signal Processing (DSP) features
 2. Improving the raw data quality and reducing feature vector size

@@ -1,19 +1,20 @@
 ---
-title: SRSI2018  Matlab programming tutorial  
-event:  Saudi Research Science Institute
+title: SRSI2018  Matlab programming tutorial
+event: Saudi Research Science Institute
 event_url: "https://www.kaust.edu.sa/en/news/young-scholars-selected-for-srsi-2018"
 
-location:  
+location:
 address:
   street: 450 Serra Mall
   city: Thuwal
   region: Makkah
-  postcode: '23955-6900'
+  postcode: "23955-6900"
   country: KSA
 
 summary: I presented basic and advanced tools for Matlab programming to 32 high school students.
-abstract: " The aim of this course is to introduce the student to the Matlab and how it can be used to model and solve real problem.
- "
+abstract:
+  " The aim of this course is to introduce the student to the Matlab and how it can be used to model and solve real problem.
+  "
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -31,26 +32,19 @@ tags: [course]
 featured: false
 
 image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)'
+  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/bzdhc5b3Bxs)"
   focal_point: Right
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Chahid_Abderraz
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/Chahid_Abderraz
 
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/abderrazak.chahid.714
-
-
-- icon: linkedin-in
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
-
+  - icon: linkedin-in
+    icon_pack: fab
+    name: Follow
+    url: https://www.linkedin.com/in/chahidabderrazak/
 
 url_code: "https://github.com/ChahidAbderrazak/Matlab_Tutorial_SRSI_2018"
 url_pdf: ""
@@ -62,7 +56,7 @@ url_video: ""
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: ''
+slides: ""
 
 # Projects (optional).
 #   Associate this post with one or more of your projects.
@@ -75,7 +69,9 @@ slides: ''
 # Enable math on this page?
 math: true
 ---
+
 The main axis of this course are:
+
 - Introduction to linear algebra
 - Problems formulation to implementation
-- Exercises: write Matlab script to solve  some problems such as linear problem, transforms...
+- Exercises: write Matlab script to solve some problems such as linear problem, transforms...

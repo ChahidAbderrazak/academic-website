@@ -2,9 +2,9 @@
 title: Smart Aquaculture
 summary: Implement a data-driven control for smart aquaculture.  The proposed approach will take advantage of the recent developments in computer vision technology to assess and inspect fish behavior and feedback information on fish behavior
 tags:
-- Artificial Intelligence
-- Feature Extraction
-- Computer Vision
+  - Artificial Intelligence
+  - Feature Extraction
+  - Computer Vision
 date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).
@@ -15,28 +15,20 @@ image:
   focal_point: Smart
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Chahid_Abderraz
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/Chahid_Abderraz
 
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/abderrazak.chahid.714
-
-
-- icon: linkedin-in
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
-
+  - icon: linkedin-in
+    icon_pack: fab
+    name: Follow
+    url: https://www.linkedin.com/in/chahidabderrazak/
 
 url_code: ""
 url_pdf: ""
 url_slides: ""
 url_video: ""
-
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -49,8 +41,7 @@ In our research, We propose to combine these advanced techniques for fish activi
 
 {{< figure library="true" src="aquaculture.png" title="Types of aquaculture." lightbox="true" >}}
 
-
- Our proposed smart aquaculture system focuses on the following points:
+Our proposed smart aquaculture system focuses on the following points:
 
 1. Studying the effect of the the environmental conditions on fish health and growth
 2. Optimal feeding control using MPC controller

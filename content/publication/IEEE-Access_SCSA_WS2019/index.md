@@ -1,12 +1,12 @@
 ---
 title: " Residual Water Suppression Using the Squared Eigenfunctions of the Schrodinger Operator"
 authors:
-- admin
-- Sourav Bhaduri
-- Mohamed Maoui
-- Eric Achten
-- Hacene Serrai
-- Taous-Meriem Laleg-Kirati
+  - admin
+  - Sourav Bhaduri
+  - Mohamed Maoui
+  - Eric Achten
+  - Hacene Serrai
+  - Taous-Meriem Laleg-Kirati
 
 date: "2019-12-01T00:00:00Z"
 doi: ""
@@ -26,37 +26,26 @@ publication_short: "IEEE-Access"
 
 abstract: Water suppression, in proton magnetic resonance spectroscopy (MRS) using post-processing techniques, is very challenging due to the large amplitude of the water line, which shadows the metabolic peaks with small amplitudes and complicates their quantification. In addition, the peak-shaped structure of these spectra and the relatively small number of data points representing them makes the suppression process more cumbersome. In this paper, a post-processing water suppression technique based on the Schrodinger operator is proposed. The method is based on the decomposition of the input MRS spectrum, using the squared eigenfunctions of a semi-classical Schrodinger operator.
 
-
-
 # Summary. An optional shortened abstract.
 summary: We developed a post-processing water suppression technique based on the squared eigenfunctions of the Schrodinger operator.
 
 tags:
-- MRS
-- SCSA
-- Diagnosis
-
+  - MRS
+  - SCSA
+  - Diagnosis
 
 featured: false
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Chahid_Abderraz
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/Chahid_Abderraz
 
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/abderrazak.chahid.714
-
-
-- icon: linkedin-in
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
-
-
+  - icon: linkedin-in
+    icon_pack: fab
+    name: Follow
+    url: https://www.linkedin.com/in/chahidabderrazak/
 
 url_pdf: https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=8720157
 
@@ -72,8 +61,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- SCSA-project
-
+  - SCSA-project
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
@@ -82,4 +70,4 @@ projects:
 #slides: example
 ---
 
-Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  Ghent university. The authors would like to thank Dr. Sabine Van Huffel from the University of Leuven for the use of the HLSVD software, Ms. Patricia Clement and Ghent Institute for Functional and Metabolic Imaging (GIfMI) team for their help in the in vivo data acquisition.
+Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with Ghent university. The authors would like to thank Dr. Sabine Van Huffel from the University of Leuven for the use of the HLSVD software, Ms. Patricia Clement and Ghent Institute for Functional and Metabolic Imaging (GIfMI) team for their help in the in vivo data acquisition.

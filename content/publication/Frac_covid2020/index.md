@@ -1,9 +1,9 @@
 ---
 title: "Fractional Modeling of COVID-19 Epidemic"
 authors:
-- Mohamed A. Bahloul
-- admin
-- Taous-Meriem Laleg-Kirati
+  - Mohamed A. Bahloul
+  - admin
+  - Taous-Meriem Laleg-Kirati
 date: "2020-04-29T00:00:00Z"
 doi: ""
 
@@ -26,30 +26,21 @@ abstract: The novel coronavirus disease (COVID-19) is known as the causative vir
 summary: Fractional-order SEIQRDP Model for Simulating the Dynamics of COVID-19 Epidemic.
 
 tags:
-- COVID19
-- Modeling
-
+  - COVID19
+  - Modeling
 
 links:
-- icon: twitter
-  icon_pack: fab
-  name: Follow
-  url: https://twitter.com/Chahid_Abderraz
+  - icon: twitter
+    icon_pack: fab
+    name: Follow
+    url: https://twitter.com/Chahid_Abderraz
 
-- icon: facebook
-  icon_pack: fab
-  name: Follow
-  url: https://www.facebook.com/abderrazak.chahid.714
-
-
-- icon: linkedin-in
-  icon_pack: fab
-  name: Follow
-  url: https://www.linkedin.com/in/abderrazak-chahid-09b65948/
-
+  - icon: linkedin-in
+    icon_pack: fab
+    name: Follow
+    url: https://www.linkedin.com/in/chahidabderrazak/
 
 url_pdf: http://arxiv.org/abs/2005.01820
-
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -64,8 +55,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- Modeling-and-Estimation
-
+  - Modeling-and-Estimation
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
