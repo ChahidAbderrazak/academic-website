@@ -40,6 +40,6 @@ In our research, we propose a smart diagnostic module (ToothAI) that can be inte
 
 The solution presents a smart and automated assistive platform to aid dental practitioners in identifying underlying tooth diseases and accessing doctors in treatment suggestions.
 
-This project was led by Prof. [Hossam A. Gabbar](https://hossamgaber.com/) and me as the postdoctoral researcher of the team (composed of a master's student : [Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/) ).
+This project was led by Prof. [Hossam A. Gabbar](https://hossamgaber.com/) and me as the postdoctoral researcher of the team (composed of two master's students [[Oluwabukola Grace](https://www.linkedin.com/in/oluwabukolaadegboro/), [Md Jamiul Alam Khan](https://www.linkedin.com/in/jamiul/)], software developer [Matthew Immanuel Samson](https://www.linkedin.com/in/matthew-immanuel-samson-094b56158/)).
 
 For a demo or more details, please contact professor Hossam A. Gabbar (Hossam.Gaber@ontariotechu.ca )
