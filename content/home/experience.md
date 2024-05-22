@@ -20,7 +20,7 @@ date_format = "Jan 2006"
 
 [[experience]]
   title = "Embedded Systems Engineer"
-  company = "Aquash"
+  company = "Aquash Technology Startup (Stage I)"
   company_url = "https://www.linkedin.com/in/aquash-company-8282191ab/"
   location = "Thuwal"
   date_start = "2020-04-01"
