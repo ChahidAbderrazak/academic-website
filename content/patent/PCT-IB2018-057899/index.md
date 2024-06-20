@@ -21,10 +21,10 @@ publication_types: ["8"]
 publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
-abstract: A method for suppressing a water line in an acquired magnetic resonance spectra (MRS) y, the method including receiving (800) the acquired MRS spectra y; estimating (802) a water peak ywp for the acquired MRS spectra y using squared eigenfunctions (ψ) of a Schrodinger operator H; and removing (804) the water peak ywp from the acquired MRS y to obtain a suppressed water MRS spectra yws. The suppressed water MRS spectra yws includes a signature of one or more metabolites. 
+abstract: A method for suppressing a water line in an acquired magnetic resonance spectra (MRS) &y, the method including receiving the acquired MRS spectra &y; estimating a water peak ywp for the acquired MRS spectra &y using squared eigenfunctions (&phi) of a Schrodinger operator &H; and removing (804) the water peak ywp from the acquired MRS &y to obtain a suppressed water MRS spectra y<sub>ws</sub>. The suppressed water MRS spectra yws includes a signature of one or more metabolites. 
 
 # Summary. An optional shortened abstract.
-summary: We developed a feature extraction method, called QuPWM, for epileptic spikes detection in MEG signals.  This method is based on combining the position weight matrix (PWM) method with digital quantization.
+summary: We developed a feature extraction method, called SCSA, for pulse-shaped signals decomposition and reconstruction.  This method  can be use for denoising.
 
 tags:
   - Feature extraction
@@ -61,5 +61,8 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
+(<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup>
+
+ The SCSA method for suppressing a water line in an acquired magnetic resonance spectra (MRS) y, the method including receiving the acquired MRS spectra y; estimating na water peak ywp for the acquired MRS spectra y using squared eigenfunctions (ψ) of a Schrodinger operator H; and removing the water peak ywp from the acquired MRS y to obtain a suppressed water MRS spectra yws. The suppressed water MRS spectra yws includes a signature of one or more metabolites. 
 
 Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  GENT University (Belgium).
