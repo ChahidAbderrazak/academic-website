@@ -18,7 +18,7 @@ organizations:
     url: "https://ontariotechu.ca/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include Feature Extraction, computer vision, real-time implementation of smart decision making systems.
+bio: My research interests include Feature extraction, computer vision, real-time implementation of smart decision making systems.
 
 interests:
   - Artificial Intelligence
