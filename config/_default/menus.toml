@@ -19,14 +19,14 @@
   weight = 30
 
 [[main]]
+  name = "Patents"
+  url = "#patents"
+  weight = 35
+
+[[main]]
   name = "Publications"
   url = "#publications"
   weight = 40
-
-[[main]]
-  name = "Patents"
-  url = "#patents"
-  weight = 43
 
 [[main]]
   name = "Talks"
