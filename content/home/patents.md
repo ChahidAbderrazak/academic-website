@@ -1,5 +1,5 @@
 +++
-# A Recent Publications section created with the Pages widget.
+# A Recent Patent section created with the Pages widget.
 # This section displays recent blog posts from `content/patent/`.
 
 widget = "pages"  # See https://sourcethemes.com/academic/docs/page-builder/
@@ -15,7 +15,7 @@ subtitle = ""
   page_type = "patent"
 
   # Choose how much pages you would like to display (0 = all pages)
-  count = 3
+  count = 2
 
   # Choose how many pages you would like to offset by
   offset = 0
