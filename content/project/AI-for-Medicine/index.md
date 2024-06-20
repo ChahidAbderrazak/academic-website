@@ -34,7 +34,7 @@ url_video: ""
 
 In our research, we focus on investigating the use of signal processing tools for biomedical diagnosis. In order to assist neurologist and biologist during their daily activity and save the time spent in the manual processing of the records, we need focus on building efficient machine learning models based on the extraction of pertinent and discriminative features for the prediction of biomedical signals.
 
-{{< figure library="true" src="framework.png" title="Feature Extraction and classification framework." lightbox="true" >}}
+{{< figure library="true" src="framework.png" title="Feature extraction and classification framework." lightbox="true" >}}
 
 Our proposed AI models focuses on the following points:
 

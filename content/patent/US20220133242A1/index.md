@@ -21,7 +21,7 @@ publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
 # Summary. An optional shortened abstract.
-summary: We developed a Feature Extraction method, called SCSA, for pulse-shaped signal. It used the dimnesionality reduction principle based on Schrödinger operator. 
+summary: We developed a Feature extraction method, called SCSA, for pulse-shaped signal. It used the dimnesionality reduction principle based on Schrödinger operator.
 
 tags:
   - Digital Signal Processing
@@ -63,6 +63,3 @@ projects:
 A method for generating a feature associated with input data includes receiving the input data; projecting the input data with a set of square functions ( <span>&#632;</span> <sub>nh2</sub> <sup>2</sup>) of the Schrödinger operator; selecting the feature to be a number of the negative eigenvalues λnh of the Schrödinger operator; and classifying the input data based on the feature
 
 The research reported in this patent was supported by King Abdullah University of Science and Technology (KAUST).
-
-
-
