@@ -189,6 +189,7 @@ plugins_js  = []
   # Citation style ("apa" or "mla")
   citation_style = "apa"
 
+# Configuration of patent pages.
 [patents]
   # Date format (refer to https://sourcethemes.com/academic/docs/customization/#date-format )
   #   Examples: "Mon, Jan 2, 2006" or "2006-01-02"
