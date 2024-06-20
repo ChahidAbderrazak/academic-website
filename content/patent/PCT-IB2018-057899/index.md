@@ -22,7 +22,7 @@ publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
 # Summary. An optional shortened abstract.
-summary: We developed a Feature Extraction method, called SCSA, for pulse-shaped signal decomposition and reconstruction of the desired specific waveform.  This method can also be used for signal denoising.
+summary: We developed a signal reconstruction method, called SCSA, for pulse-shaped signal decomposition. After the decomposition, the reconstructioned signal will be composed of weighted sum of squared eigen-functions waveform of the Schrodinger operator.  This method can also be used for signal denoising.
 
 tags:
   - Digital Signal Processing
@@ -65,3 +65,4 @@ The SCSA method can be used pulse-shaped signals such as magnetic resonance spec
    of a Schrodinger operator   <b> H </b> ; and removing the water peak <i>y<sub>wp</sub></i> from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra <i>y<sub>ws</sub></i> include a signature of one or more metabolites.
 
 The research reported in this patent was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with GENT University (Belgium).
+

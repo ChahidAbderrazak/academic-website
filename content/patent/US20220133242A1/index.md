@@ -1,8 +1,7 @@
 ---
-title: " Magnetic Resonance Spectroscopy Water Suppression Method and Device"
+title: "Feature generation based on eigenfunctions of the schrödinger operator"
 authors:
   - admin
-  - Hacene Serrai
   - Taous-Meriem Laleg-Kirati
 
 date: "2022-04-01T00:00:00Z"
@@ -21,14 +20,11 @@ publication_types: ["8"]
 publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
-abstract: A method for suppressing a water line in an acquired magnetic resonance spectra (MRS) y, the method including receiving (800) the acquired MRS spectra y; estimating (802) a water peak ywp for the acquired MRS spectra y using squared eigenfunctions (ψ) of a Schrodinger operator H; and removing (804) the water peak ywp from the acquired MRS y to obtain a suppressed water MRS spectra yws. The suppressed water MRS spectra yws includes a signature of one or more metabolites.
-
 # Summary. An optional shortened abstract.
-summary: We developed a Feature Extraction method, called QuPWM, for epileptic spikes detection in MEG signals.  This method is based on combining the position weight matrix (PWM) method with digital quantization.
+summary: We developed a Feature Extraction method, called SCSA, for pulse-shaped signal. It used the dimnesionality reduction principle based on Schrödinger operator. 
 
 tags:
-  - Feature Extraction
-  - AI
+  - Digital Signal Processing
   - SCSA
 
 featured: true
@@ -39,7 +35,7 @@ links:
     name: Follow
     url: https://www.linkedin.com/in/chahidabderrazak/
 
-url_pdf: https://patents.google.com/patent/US10983076B2/en
+url_pdf: https://patents.google.com/patent/US20220133242A1/en
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -62,4 +58,11 @@ projects:
 #slides: example
 ---
 
-Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with GENT University (Belgium).
+<!-- (<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup> -->
+
+A method for generating a feature associated with input data includes receiving the input data; projecting the input data with a set of square functions ( <span>&#632;</span> <sub>nh2</sub> <sup>2</sup>) of the Schrödinger operator; selecting the feature to be a number of the negative eigenvalues λnh of the Schrödinger operator; and classifying the input data based on the feature
+
+The research reported in this patent was supported by King Abdullah University of Science and Technology (KAUST).
+
+
+
