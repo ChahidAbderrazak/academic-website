@@ -34,7 +34,7 @@ sections:
   create: all
   match: "**/*"
 - type: directory
-  path: content/patent
+  path: content/patents
   label: Patents
   create: all
   match: "**/*"
