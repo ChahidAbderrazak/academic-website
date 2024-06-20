@@ -61,6 +61,7 @@ projects:
 
 <!-- (<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup> -->
 
-The SCSA method can be used pulse-shaped signals such as magnetic resonance spectra (MRS) signals. It is used for suppressing the water line in an acquired MRS signal <i>y</i>, the method including receiving the acquired MRS spectra <i>y</i>; estimating a water peak <i>y<sub>wp</sub></i> for the acquired MRS spectra &y using squared eigenfunctions  ( &phi ) (<i>phi</i>) of a Schrodinger operator &H <i>H</i>; and removing the water peak <i>y<sub>wp</sub></i> from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra <i>y<sub>ws</sub></i> include a signature of one or more metabolites.
+The SCSA method can be used pulse-shaped signals such as magnetic resonance spectra (MRS) signals. It is used for suppressing the water line in an acquired MRS signal <i>y</i>, the method including receiving the acquired MRS spectra <i>y</i>; estimating a water peak <i>y<sub>wp</sub></i> for the acquired MRS spectra <i>y</i> using squared eigenfunctions ( <span>&#632;</span>)
+  ( &Phi ) (<i>phi</i>) of a Schrodinger operator &H <i>H</i>; and removing the water peak <i>y<sub>wp</sub></i> from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra <i>y<sub>ws</sub></i> include a signature of one or more metabolites.
 
 The research reported in this patent was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with GENT University (Belgium).
