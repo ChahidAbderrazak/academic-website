@@ -21,14 +21,11 @@ publication_types: ["8"]
 publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
-abstract: A method for suppressing a water line in an acquired magnetic resonance spectra (MRS) &y, the method including receiving the acquired MRS spectra &y; estimating a water peak ywp for the acquired MRS spectra &y using squared eigenfunctions (&phi) of a Schrodinger operator &H; and removing (804) the water peak ywp from the acquired MRS &y to obtain a suppressed water MRS spectra y<sub>ws</sub>. The suppressed water MRS spectra yws includes a signature of one or more metabolites. 
-
 # Summary. An optional shortened abstract.
-summary: We developed a feature extraction method, called SCSA, for pulse-shaped signals decomposition and reconstruction.  This method  can be use for denoising.
+summary: We developed a feature extraction method, called SCSA, for pulse-shaped signals decomposition and reconstruction of the desired specific wave-form.  This method can also be use for signal denoising.
 
 tags:
-  - Feature extraction
-  - AI
+  - Digital Signal Processing
   - SCSA
 
 featured: true
@@ -61,8 +58,7 @@ projects:
 #   Otherwise, set `slides: ""`.
 #slides: example
 ---
-(<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup>
-
- The SCSA method for suppressing a water line in an acquired magnetic resonance spectra (MRS) y, the method including receiving the acquired MRS spectra y; estimating na water peak ywp for the acquired MRS spectra y using squared eigenfunctions (ψ) of a Schrodinger operator H; and removing the water peak ywp from the acquired MRS y to obtain a suppressed water MRS spectra yws. The suppressed water MRS spectra yws includes a signature of one or more metabolites. 
+<!-- (<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup> -->
+ The SCSA method can be used pulse-shaped signals such as the magnetic resonance spectra (MRS) signals. It is used for suppressing the water line in an acquired MRS signal <i>y<sub>h</sub></i>, the method including receiving the acquired MRS spectra <i>y</i>; estimating a water peak <i>y<sub>wp</sub></i> for the acquired MRS spectra &y using squared eigenfunctions (&phi) of a Schrodinger operator &H; and removing the water peak ywp from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra yws includes a signature of one or more metabolites.
 
 Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  GENT University (Belgium).
