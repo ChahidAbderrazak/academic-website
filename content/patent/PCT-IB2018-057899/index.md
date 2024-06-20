@@ -22,7 +22,7 @@ publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
 # Summary. An optional shortened abstract.
-summary: We developed a feature extraction method, called SCSA, for pulse-shaped signals decomposition and reconstruction of the desired specific wave-form.  This method can also be use for signal denoising.
+summary: We developed a feature extraction method, called SCSA, for pulse-shaped signal decomposition and reconstruction of the desired specific waveform.  This method can also be used for signal denoising.
 
 tags:
   - Digital Signal Processing
@@ -59,6 +59,6 @@ projects:
 #slides: example
 ---
 <!-- (<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup> -->
- The SCSA method can be used pulse-shaped signals such as the magnetic resonance spectra (MRS) signals. It is used for suppressing the water line in an acquired MRS signal <i>y<sub>h</sub></i>, the method including receiving the acquired MRS spectra <i>y</i>; estimating a water peak <i>y<sub>wp</sub></i> for the acquired MRS spectra &y using squared eigenfunctions (&phi) of a Schrodinger operator &H; and removing the water peak ywp from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra yws includes a signature of one or more metabolites.
+ The SCSA method can be used pulse-shaped signals such as magnetic resonance spectra (MRS) signals. It is used for suppressing the water line in an acquired MRS signal <i>y</i>, the method including receiving the acquired MRS spectra <i>y</i>; estimating a water peak <i>y<sub>wp</sub></i> for the acquired MRS spectra &y using squared eigenfunctions (<i>&phi</i>) of a Schrodinger operator <i>&H</i>; and removing the water peak  <i>y<sub>wp</sub></i> from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra  <i>y<sub>ws</sub></i> include a signature of one or more metabolites.
 
-Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  GENT University (Belgium).
+The research reported in this patent was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with  GENT University (Belgium).
