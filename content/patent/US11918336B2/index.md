@@ -1,14 +1,14 @@
 ---
-title: "Feature generation based on eigenfunctions of the schrödinger operator"
+title: "Reduced feature generation for signal classification based on position weight matrix"
 authors:
   - admin
   - Taous-Meriem Laleg-Kirati
 
-date: "2022-04-01T00:00:00Z"
+date: "2020-02-14T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: "2022-04-01T12:00:00Z"
+publishDate: "2020-02-14T12:00:00Z"
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -25,7 +25,8 @@ summary: We developed a Feature Extraction method, called SCSA, for pulse-shaped
 
 tags:
   - Digital Signal Processing
-  - SCSA
+  - QuPWM
+  - Feature Extraction
 
 featured: true
 
@@ -35,7 +36,7 @@ links:
     name: Follow
     url: https://www.linkedin.com/in/chahidabderrazak/
 
-url_pdf: https://patents.google.com/patent/WO2020170102A1/en
+url_pdf: https://patents.google.com/patent/WO2020170101A1/en
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
@@ -49,7 +50,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - SCSA-project
+  - AI-for-Medicine
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
