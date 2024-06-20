@@ -41,7 +41,7 @@ In our research, we propose a smart monitoring system for automated and real-tim
 Three main components:
 
 1. Hardware devices/nodes: for data collection using drones or a designed node that can be mounted on vehicles.
-2. Software applications: for data preparation, and road condition inspection using hybrid algorithms based on digital signal processing, and artificial intelligence technologies.
+2. Software applications: for data preparation, and road condition inspection using hybrid algorithms based on digital signal processing, and Artificial Intelligence technologies.
 3. Webapp: is an interactive web interface for real-time data sharing, infrastructure monitoring, visualization, and management of inspection reports which can improve the maintenance process.
 
 {{< figure library="true" src="hais-webapp.jpeg" title="The web user-interface of the proposed HAIS software." lightbox="true" >}}

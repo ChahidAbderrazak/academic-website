@@ -21,11 +21,14 @@ publication_types: ["8"]
 publication: "*World Intellectual Property Organization*"
 publication_short: "WIPO"
 
+abstract: A method for suppressing a water line in an acquired magnetic resonance spectra (MRS) y, the method including receiving (800) the acquired MRS spectra y; estimating (802) a water peak ywp for the acquired MRS spectra y using squared eigenfunctions (ψ) of a Schrodinger operator H; and removing (804) the water peak ywp from the acquired MRS y to obtain a suppressed water MRS spectra yws. The suppressed water MRS spectra yws includes a signature of one or more metabolites.
+
 # Summary. An optional shortened abstract.
-summary: We developed a Feature Extraction method, called SCSA, for pulse-shaped signal decomposition and reconstruction of the desired specific waveform.  This method can also be used for signal denoising.
+summary: We developed a Feature Extraction method, called QuPWM, for epileptic spikes detection in MEG signals.  This method is based on combining the position weight matrix (PWM) method with digital quantization.
 
 tags:
-  - Digital Signal Processing
+  - Feature Extraction
+  - AI
   - SCSA
 
 featured: true
@@ -59,8 +62,4 @@ projects:
 #slides: example
 ---
 
-<!-- (<i>a</i> + <i>b</i> + √<i>c</i>)<sup>2<i>x</i> + <i>b</i></sup> -->
-
-The SCSA method can be used pulse-shaped signals such as magnetic resonance spectra (MRS) signals. It is used for suppressing the water line in an acquired MRS signal <i>y</i>, the method including receiving the acquired MRS spectra <i>y</i>; estimating a water peak <i>y<sub>wp</sub></i> for the acquired MRS spectra &y using squared eigenfunctions (<i>&phi</i>) of a Schrodinger operator <i>&H</i>; and removing the water peak <i>y<sub>wp</sub></i> from the acquired MRS <i>y</i>, to obtain a suppressed water MRS spectra <i>y<sub>ws</sub></i>. The suppressed water MRS spectra <i>y<sub>ws</sub></i> include a signature of one or more metabolites.
-
-The research reported in this patent was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with GENT University (Belgium).
+Research reported in this publication was supported by King Abdullah University of Science and Technology (KAUST) in collaboration with GENT University (Belgium).

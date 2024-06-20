@@ -34,7 +34,7 @@ url_video: "https://www.youtube.com/watch?v=YxU-djNiBmM&list=PLVCBcL0peR4J2RBAiC
 #slides: example
 ---
 
-In our research, we propose a smart diagnostic module (ToothAI) that can be integrated into existing dental software. This module is based on artificial intelligence (AI) that allows the diagnosis of X-ray images/volumes and helps in the early detection and diagnosis of oral health diseases.
+In our research, we propose a smart diagnostic module (ToothAI) that can be integrated into existing dental software. This module is based on Artificial Intelligence (AI) that allows the diagnosis of X-ray images/volumes and helps in the early detection and diagnosis of oral health diseases.
 
 {{< figure library="true" src="tooth-ai-framework.jpeg" title="The ToothAI module framework." lightbox="true" >}}
 

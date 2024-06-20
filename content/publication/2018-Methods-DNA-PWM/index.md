@@ -35,7 +35,7 @@ abstract: Polyadenylation signals (PAS) are found in most protein-coding and som
 summary: We developed New hybrid model for poly(A) signal prediction in human DNA is developed. It contains 8 deep neural networks and 4 logistic regression models. A novel feature generation method is used to extract relevant patterns in the DNA sequences.
 
 tags:
-  - Feature extraction
+  - Feature Extraction
   - AI
   - PWM
   - DNA
