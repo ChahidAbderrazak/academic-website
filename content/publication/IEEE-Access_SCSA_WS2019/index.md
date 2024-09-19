@@ -32,7 +32,7 @@ summary: We developed a post-processing water suppression technique based on the
 tags:
   - MRS
   - SCSA
-  - Diagnosis
+
   - Signal Processing
   - Biomedical Signals
 

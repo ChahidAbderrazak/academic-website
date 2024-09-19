@@ -4,7 +4,7 @@ summary: Nowadays, there is a recent call to build a human-independent intellige
 tags:
   - Artificial Intelligence
   - Feature Extraction
-  - Diagnosis
+
 date: "2018-01-01"
 
 # Optional external URL for project (replaces project detail page).

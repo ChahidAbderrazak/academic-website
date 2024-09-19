@@ -34,8 +34,12 @@ tags:
   - Artificial Intelligence
   - Image Processing
   - Computed Tomography (CT)
+  - SQL
+  - Classification
+  - Object Detection
+  - Defect Inspection
 
-featured: true
+featured: false
 
 links:
   - icon: linkedin-in
@@ -48,7 +52,7 @@ url_pdf: https://www.mdpi.com/2076-3417/12/4/2175
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
-  caption: Development framework to obtain the best predictive model for an individual PAS variant.
+  caption: The framework of the CTIMS project.
   focal_point: Smart
 
 # Associated Projects (optional).
