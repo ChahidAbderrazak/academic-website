@@ -1,5 +1,5 @@
 ---
-title: " CTIMS: Automated Defect Detection Framework Using Computed Tomography"
+title: " HAIS: Highways Automated-Inspection System"
 authors:
   - Hossam A. Gabbar
   - admin
