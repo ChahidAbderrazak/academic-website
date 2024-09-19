@@ -28,7 +28,7 @@ abstract: Recent advances in the biomedical field have generated a massive amoun
 summary: New Feature extraction method based on the Quantization-based position Weight Matrix (QuPWM) method designed explicitly for multiclass classification on biomedical signals.
 
 tags:
-  - AI
+  - Artificial Intelligence
   - Feature Extraction
   - sEMG
 featured: true

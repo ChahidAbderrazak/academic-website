@@ -3,10 +3,11 @@ title: Highways Automated Inspection System
 summary: Smart, automated and real-time road condition inspection.
 
 tags:
-  - AI
+  - Artificial Intelligence
   - Computer Vision
   - Data Analysis
   - Embedded Systems
+  - Image Processing
 date: "2022-01-01"
 
 # Optional external URL for project (replaces project detail page).

@@ -24,7 +24,7 @@ publication_short: "WIPO"
 summary: We developed a Feature extraction method, called SCSA, for pulse-shaped signal. It used the dimnesionality reduction principle based on Schrödinger operator.
 
 tags:
-  - Digital Signal Processing
+  - Signal Processing
   - QuPWM
   - Feature Extraction
 

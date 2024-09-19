@@ -4,7 +4,7 @@ summary: Investigate mathematical, statistical and data-driven models of the COV
 tags:
   - Modeling
   - Estimation
-  - AI
+  - Artificial Intelligence
   - COVID-19
 
 date: "2020-04-07"

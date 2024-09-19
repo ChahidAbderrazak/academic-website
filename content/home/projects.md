@@ -25,8 +25,6 @@ subtitle = ""
     name = "All"
     tag = "*"
 
-
-
   [[content.filter_button]]
     name = "Feature Extraction"
     tag = "Feature Extraction"
@@ -43,10 +41,14 @@ subtitle = ""
     name = "Estimation"
     tag = "Estimation"
 
-    [[content.filter_button]]
-      name = "Modeling"
-      tag = "Modeling"
+  [[content.filter_button]]
+    name = "Modeling"
+    tag = "Modeling"
 
+  [[content.filter_button]]
+    name = "Image Processing"
+    tag = "Image Processing"
+  
 
 [design]
   # Choose how many columns the section has. Valid values: 1 or 2.

@@ -2,7 +2,7 @@
 title: AI in Medicine
 summary: Nowadays, there is a recent call to build a human-independent intelligence which can assist clinicians during medical diagnosis.
 tags:
-  - AI
+  - Artificial Intelligence
   - Feature Extraction
   - Diagnosis
 date: "2018-01-01"
@@ -38,7 +38,7 @@ In our research, we focus on investigating the use of signal processing tools fo
 
 Our proposed AI models focuses on the following points:
 
-1. Using Digital Signal Processing (DSP) features
+1. Using Signal Processing (DSP) features
 2. Improving the raw data quality and reducing feature vector size
 3. Improving the classifier robustness or sensitivity to noise.
 4. In our different studies, we targeted the following aspects:

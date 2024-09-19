@@ -28,7 +28,7 @@ abstract: Epilepsy is a neurological disorder classified as the second most seri
 summary: New Feature extraction method based on the Quantization-based Semi-Classical Signal Analysis designed explicitly for   epileptic spikes  using  Magnetoencephalography (MEG) signals.
 
 tags:
-  - AI
+  - Artificial Intelligence
   - Feature Extraction
   - SCSA
   - Signal Processing

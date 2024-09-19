@@ -36,7 +36,7 @@ summary: We developed New hybrid model for poly(A) signal prediction in human DN
 
 tags:
   - Feature Extraction
-  - AI
+  - Artificial Intelligence
 
   - PWM
   - DNA

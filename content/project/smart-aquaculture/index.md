@@ -2,8 +2,9 @@
 title: Smart Aquaculture
 summary: Implement a data-driven control for smart aquaculture.  The proposed approach will take advantage of the recent developments in computer vision technology to assess and inspect fish behavior and feedback information on fish behavior
 tags:
-  - AI
+  - Artificial Intelligence
   - Computer Vision
+  - Image Processing
 date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).

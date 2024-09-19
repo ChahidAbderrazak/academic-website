@@ -31,7 +31,7 @@ summary: We developed a Feature extraction method, called QuPWM, for epileptic s
 
 tags:
   - Feature Extraction
-  - AI
+  - Artificial Intelligence
 
   - QuPWM
   - Epilepsy
