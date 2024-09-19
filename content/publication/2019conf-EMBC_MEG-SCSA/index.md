@@ -32,6 +32,8 @@ tags:
   - Feature Extraction
   - SCSA
   - Signal Processing
+  - MEG
+  - Biomedical Signals
 
 featured: true
 

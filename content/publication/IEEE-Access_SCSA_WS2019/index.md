@@ -34,6 +34,7 @@ tags:
   - SCSA
   - Diagnosis
   - Signal Processing
+  - Biomedical Signals
 
 featured: false
 

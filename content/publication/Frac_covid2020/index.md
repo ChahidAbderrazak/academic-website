@@ -26,10 +26,10 @@ abstract: The novel coronavirus disease (COVID-19) is known as the causative vir
 summary: Fractional-order SEIQRDP Model for Simulating the Dynamics of COVID-19 Epidemic.
 
 tags:
-  - COVID19
+  - COVID-19
   - Modeling
   - Estimation
-
+  - Biomedical Signals
 links:
   - icon: linkedin-in
     icon_pack: fab

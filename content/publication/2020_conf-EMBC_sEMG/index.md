@@ -22,7 +22,7 @@ publication_types: ["1"]
 publication: In *42nd Annual International Conference of the IEEE Engineering in Medicine and Biology Society*
 publication_short: In *EMBC2020*
 
-abstract: Recent advances in the biomedical field have generated a massive amount of data and records (signals) that are collected for diagnosis purposes. The correct interpretation and understanding of these signals present a big challenge for digital health vision. In this work, Quantization-based position Weight Matrix (QuPWM) Feature extraction method for multiclass classification is proposed to improve the interpretation of biomedical signals. This method is validated on surface Electromyogram (sEMG) signals recognition for eight different hand gestures. The used CapgMyo dataset consists of high-density sEMG signals across $128$ channels acquired from $9$ intact subjects. Our pilot results show that an accuracy of up to $83\%$  can be achieved for some subjects using a support vector machine classifier, and an average accuracy of $75\%$ has been reached for all studied subjects using the CapgMyo dataset. The proposed method shows a good potential in extracting relevant features from different biomedical signals such as Electroencephalogram (EEG) and Magnetoencephalogram (MEG) signals.
+abstract: Recent advances in the biomedical field have generated a massive amount of data and records (signals) that are collected for diagnosis purposes. The correct interpretation and understanding of these signals present a big challenge for digital health vision. In this work, Quantization-based position Weight Matrix (QuPWM) Feature extraction method for multi-class classification is proposed to improve the interpretation of biomedical signals. This method is validated on surface Electromyogram (sEMG) signals recognition for eight different hand gestures. The used CapgMyo dataset consists of high-density sEMG signals across $128$ channels acquired from $9$ intact subjects. Our pilot results show that an accuracy of up to $83\%$  can be achieved for some subjects using a support vector machine classifier, and an average accuracy of $75\%$ has been reached for all studied subjects using the CapgMyo dataset. The proposed method shows a good potential in extracting relevant features from different biomedical signals such as Electroencephalogram (EEG) and Magnetoencephalogram (MEG) signals.
 
 # Summary. An optional shortened abstract.
 summary: New Feature extraction method based on the Quantization-based position Weight Matrix (QuPWM) method designed explicitly for multiclass classification on biomedical signals.
@@ -30,7 +30,9 @@ summary: New Feature extraction method based on the Quantization-based position 
 tags:
   - Artificial Intelligence
   - Feature Extraction
+  - QuPWM
   - sEMG
+  - Biomedical Signals
 featured: true
 
 links:

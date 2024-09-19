@@ -37,10 +37,8 @@ summary: We developed New hybrid model for poly(A) signal prediction in human DN
 tags:
   - Feature Extraction
   - Artificial Intelligence
-
   - PWM
   - DNA
-  - Deep learning
 
 featured: true
 
@@ -75,6 +73,6 @@ projects:
 #slides: example
 ---
 
-his work has been supported by the King Abdullah University of Science and Technology (KAUST) Base Research Fund (BAS/1/1606-01-01) to VBB, (BAS/1/1627-01-01) to TMLK, and KAUST Office of Sponsored Research (OSR) under Awards No CARF – FCC/1/1976-17-01.
+This work has been supported by the King Abdullah University of Science and Technology (KAUST) Base Research Fund (BAS/1/1606-01-01) to VBB, (BAS/1/1627-01-01) to TMLK, and KAUST Office of Sponsored Research (OSR) under Awards No CARF – FCC/1/1976-17-01.
 
 Supplementary notes can be added here, including [code and dataset](https://github.com/EMANG-KAUST/QuPWM).
