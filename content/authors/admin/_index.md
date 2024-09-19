@@ -80,7 +80,7 @@ user_groups:
   - Visitors
 ---
 
-I am postdoctoral researcher fellow at the [Ontario Tech University](https://ontariotechu.ca/). I worked on building and deploying machine learning models (ML) for smart vision systems for defect detection. I got my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid).
+I am a postdoctoral researcher fellow at the [Ontario Tech University](https://ontariotechu.ca/). I worked on building and deploying machine learning models (ML) for smart vision systems for defect detection. I got my Ph.D. in Electrical and Computer Engineering from King Abdullah University of Science and Technology [KAUST](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid).
 I am passionate about combining Artificial Intelligence with embedded systems to build smart and low-cost devices such as [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ...
 
 If you have similar interests, please feel free to contact me for questions, discussion, or potential collaboration :).
