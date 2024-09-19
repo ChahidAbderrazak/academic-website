@@ -40,7 +40,7 @@ The designed software has three main modules:
 
 1. Database management module, which handles the database and reads/writes queries to retrieve or save the CT data
 2. Pre-processing module for registration and background subtraction
-3. Defect inspection module to detect all the potential defects (missing parts, damaged screws, etc.) based on a hybrid system composed of computer vision and deep learning techniques.
+3. Defect inspection module to detect all the potential defects (missing parts, damaged screws, etc.) based on a hybrid system composed of computer vision and deep learning techniques
 
 {{< figure library="true" src="ctims-gui.png" title="The user-interface of the proposed CTIMS software." lightbox="true" >}}
 
