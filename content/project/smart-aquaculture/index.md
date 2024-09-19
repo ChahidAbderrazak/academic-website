@@ -5,6 +5,7 @@ tags:
   - Artificial Intelligence
   - Computer Vision
   - Image Processing
+  - Embedded System Deployment
 date: "2020-01-01"
 
 # Optional external URL for project (replaces project detail page).

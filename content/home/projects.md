@@ -30,7 +30,15 @@ subtitle = ""
     tag = "Feature Extraction"
 
   [[content.filter_button]]
-    name = "AI"
+    name = "Image Processing"
+    tag = "Image Processing"
+
+  [[content.filter_button]]
+    name = "Signal Processing"
+    tag = "Signal Processing"
+
+  [[content.filter_button]]
+    name = "Artificial Intelligence"
     tag = "Artificial Intelligence"
 
  [[content.filter_button]]
@@ -46,8 +54,9 @@ subtitle = ""
     tag = "Modeling"
 
   [[content.filter_button]]
-    name = "Image Processing"
-    tag = "Image Processing"
+    name = "Embedded System"
+    tag = "Embedded System Deployment"
+
   
 
 [design]

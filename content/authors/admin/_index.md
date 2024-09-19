@@ -24,10 +24,12 @@ interests:
   - Artificial Intelligence
   - Feature Extraction
   - Signal Processing
+  - Image Processing
   - Advanced Algorithm Design
   - Computer Vision
   - Smart Decision Making
   - Reinforcement Learning
+  - Embedded System Deployment
 
 education:
   courses:
