@@ -21,7 +21,7 @@ organizations:
 bio: My research interests include Feature extraction, computer vision, real-time implementation of smart decision making systems.
 
 interests:
-  - Artificial Intelligence
+  - AI
   - Feature Extraction
   - Digital Signal Processing
   - Advanced Algorithm Design

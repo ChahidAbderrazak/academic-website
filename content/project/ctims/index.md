@@ -3,8 +3,7 @@ title: Automated Smart Industrial Inspection
 summary: Automated smart industrial inspection software for X-ray CT images and 3D volumes.
 
 tags:
-  - Artificial Intelligence
-  - Feature Extraction
+  - AI
   - Computer Vision
   - Data Analysis
 date: "2021-04-01"

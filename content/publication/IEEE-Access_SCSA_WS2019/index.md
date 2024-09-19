@@ -33,6 +33,7 @@ tags:
   - MRS
   - SCSA
   - Diagnosis
+  - Signal Processing
 
 featured: false
 

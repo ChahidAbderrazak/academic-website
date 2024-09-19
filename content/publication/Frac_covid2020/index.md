@@ -28,6 +28,7 @@ summary: Fractional-order SEIQRDP Model for Simulating the Dynamics of COVID-19 
 tags:
   - COVID19
   - Modeling
+  - Estimation
 
 links:
   - icon: linkedin-in

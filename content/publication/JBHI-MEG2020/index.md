@@ -32,6 +32,7 @@ summary: We developed a Feature extraction method, called QuPWM, for epileptic s
 tags:
   - Feature Extraction
   - AI
+
   - QuPWM
   - Epilepsy
 
@@ -58,7 +59,8 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-  - AI-for-Medicine
+  - AI
+-for-Medicine
 # Slides (optional).
 #   Associate this publication with Markdown slides.
 #   Simply enter your slide deck's filename without extension.

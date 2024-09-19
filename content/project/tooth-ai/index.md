@@ -3,10 +3,10 @@ title: Tooth-AI project
 summary: Smart dental diagnosis and treatment support.
 
 tags:
-  - Artificial Intelligence
-  - Feature Extraction
+  - AI
   - Computer Vision
   - Data Analysis
+  - Database
 date: "2022-12-01"
 
 # Optional external URL for project (replaces project detail page).

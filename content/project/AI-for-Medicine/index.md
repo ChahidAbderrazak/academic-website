@@ -2,7 +2,7 @@
 title: AI in Medicine
 summary: Nowadays, there is a recent call to build a human-independent intelligence which can assist clinicians during medical diagnosis.
 tags:
-  - Artificial Intelligence
+  - AI
   - Feature Extraction
   - Diagnosis
 date: "2018-01-01"
