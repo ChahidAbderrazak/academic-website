@@ -79,8 +79,10 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a data scientist with expertise defect detection and prediction. I got my Ph.D. in signal processing-based feature extraction (see [my thesis](https://repository.kaust.edu.sa/items/c98714c0-bbbb-4fd7-a9d9-e65d47328825)) from [King Abdullah University of Science and Technology (KAUST)](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid).
-I  worked on [different projects](https://chahid-abderrazak.com/#projects) including signal/image processing, computer vision, feature extraction, optimization, and statistical modeling. I am passionate about integrating  Artificial Intelligence with real-world applications.
- <!-- :  [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ... -->
+I am a data scientist with expertise defect detection and prediction. I got my Ph.D. in signal processing-based feature extraction (see [my thesis](https://repository.kaust.edu.sa/items/c98714c0-bbbb-4fd7-a9d9-e65d47328825)).
+I  worked on [different research and industrial projects](https://chahid-abderrazak.com/#projects) related to signal/image processing, computer vision, feature extraction, optimization, and statistical modeling. 
+ <!-- 
+  from [King Abdullah University of Science and Technology (KAUST)](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid)
+ :  [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ... -->
 
-If you have similar interests, please contact me for questions, discussion, or potential collaboration :).
+I am passionate about integrating  Artificial Intelligence with real-world applications. If you have similar interests, please contact me for questions, discussion, or potential collaboration :).
