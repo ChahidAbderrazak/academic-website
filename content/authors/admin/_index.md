@@ -39,7 +39,7 @@ education:
     - course: M.Sc in Embedded Systems
       institution: Lorraine University, Nancy, France
       year: 2014
-    - course: M.Eng in Embedded Systems
+    - course: M.Eng in Electrical Engineering
       institution: École Nationale des Sciences Appliquées de Khouribga, Morocco
       year: 2013
     - course: B.Sc in Electrical Engineering
