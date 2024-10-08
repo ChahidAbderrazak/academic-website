@@ -79,7 +79,7 @@ user_groups:
   - Researchers
   - Visitors
 ---
-I am a postdoctoral researcher fellow at the [Ontario Tech University](https://ontariotechu.ca/). I worked on building and deploying machine learning models (ML) for defect detection and prediction. I got my Ph.D. in signal processing-based feature extraction (see [my thesis](https://repository.kaust.edu.sa/items/c98714c0-bbbb-4fd7-a9d9-e65d47328825)) from [King Abdullah University of Science and Technology (KAUST)](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid).
+I am a data scientist with expertise defect detection and prediction. I got my Ph.D. in signal processing-based feature extraction (see [my thesis](https://repository.kaust.edu.sa/items/c98714c0-bbbb-4fd7-a9d9-e65d47328825)) from [King Abdullah University of Science and Technology (KAUST)](https://cemse.kaust.edu.sa/emang/people/person/abderrazak-chahid).
 I  worked on [different projects](https://chahid-abderrazak.com/#projects) including signal/image processing, computer vision, feature extraction, optimization, and statistical modeling. I am passionate about integrating  Artificial Intelligence with real-world applications.
  <!-- :  [smart surveillance cameras](https://www.youtube.com/watch?v=QcCjmWwEUgg), [preventive diagnostic cameras](https://www.youtube.com/watch?v=mHBSRPkFnDI), [autonomous robots](https://www.youtube.com/watch?v=P9zmerD04Hk) ... -->
 
