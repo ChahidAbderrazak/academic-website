@@ -66,4 +66,4 @@ projects:
 #slides: example
 ---
 
-Supplementary notes can be added here, including [code and dataset](https://github.com/ChahidAbderrazak).
+Supplementary notes can be added here, including [code and dataset](https://github.com/ChahidAbderrazak/Hand-Gesture-Recognition).
