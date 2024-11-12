@@ -39,9 +39,17 @@ In our research, We propose to combine these advanced techniques for fish activi
 
 Our proposed smart aquaculture system focuses on the following points:
 
-1. Studying the effect of the the environmental conditions on fish health and growth
-2. Optimal feeding control using MPC controller
-3. Fish health assessment using computer vision.
-4. In our different studies, we targeted the following aspects:
+
+1. Studying the effect of the the environmental conditions on fish health and growth using Reinforcement learning. ([GitHub](https://github.com/ChahidAbderrazak/Q-Learning-in-aquaculture))
+
+{{< figure library="true" src="RL-Q-learning.png" title="Model predictive control" lightbox="true" >}}
+
+2. Optimal feeding control using MPC controller.([GitHub](https://github.com/ChahidAbderrazak/EMPC-based_control-for-Aquacuture))
+
+{{< figure library="true" src="MPC.png" title="Model predictive control" lightbox="true" >}}
+
+3. Fish health assessment using computer vision ([Aquash Startup](https://www.linkedin.com/posts/chahidabderrazak_aquash-junctionxkaust-startup-activity-6578968922740060160-_5so?utm_source=share&utm_medium=member_desktop)). ([GitHub](https://github.com/ChahidAbderrazak/smart-fish-diagnosis.git))
+{{< figure library="true" src="aquash-detection.jpeg" title="Fish monitoring based on Object detection model deployed using NVIDIA Jetson Nano " lightbox="true" >}}
+
 
 This project will be conducted by a team of three professors. Prof. Laleg’s team has significant expertise in developing control, optimization and monitoring methods. She has been working on simulations and lab experimental testing of her algorithms. Prof. Ghanem’s team is particularly well suited to performing the computer vision tasks. Prof. Berumen’s team will provide their expertise in fish behavior and will help in collecting data. In particular, they will work on labelling the fish behavior and will support the experimental setup with their ongoing aquaria work in KAUST’s marine core lab (CMRCL).
