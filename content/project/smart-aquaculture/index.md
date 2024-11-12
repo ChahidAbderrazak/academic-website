@@ -48,8 +48,10 @@ Our proposed smart aquaculture system focuses on the following points:
 
 {{< figure library="true" src="MPC.png" title="Model predictive control" lightbox="true" >}}
 
-3. Fish health assessment using computer vision ([Aquash Startup](https://www.linkedin.com/posts/chahidabderrazak_aquash-junctionxkaust-startup-activity-6578968922740060160-_5so?utm_source=share&utm_medium=member_desktop)). ([GitHub](https://github.com/ChahidAbderrazak/smart-fish-diagnosis.git))
+3. **Industrial application**: Fish health assessment using computer vision . ([GitHub](https://github.com/ChahidAbderrazak/smart-fish-diagnosis.git))
 {{< figure library="true" src="aquash-detection.jpeg" title="Fish monitoring based on Object detection model deployed using NVIDIA Jetson Nano " lightbox="true" >}}
 
+**NB**: The project was motivated by the innovative idea of the ([Aquash Startup team](https://www.linkedin.com/posts/chahidabderrazak_aquash-junctionxkaust-startup-activity-6578968922740060160-_5so?utm_source=share&utm_medium=member_desktop)) 
 
-This project will be conducted by a team of three professors. Prof. Laleg’s team has significant expertise in developing control, optimization and monitoring methods. She has been working on simulations and lab experimental testing of her algorithms. Prof. Ghanem’s team is particularly well suited to performing the computer vision tasks. Prof. Berumen’s team will provide their expertise in fish behavior and will help in collecting data. In particular, they will work on labelling the fish behavior and will support the experimental setup with their ongoing aquaria work in KAUST’s marine core lab (CMRCL).
+
+This reseach project (parts 1 and 2) will be led by a team of three professors. Prof. Laleg’s team has significant expertise in developing control, optimization and monitoring methods. She has been working on simulations and lab experimental testing of her algorithms. Prof. Ghanem’s team is particularly well suited to performing the computer vision tasks. Prof. Berumen’s team will provide their expertise in fish behavior and will help in collecting data. In particular, they will work on labelling the fish behavior and will support the experimental setup with their ongoing aquaria work in KAUST’s marine core lab ([CMRCL](https://corelabs.kaust.edu.sa/labs/coastal-and-marine-resources-core-lab)).
